@@ -8,7 +8,7 @@
 				"question": "Commencer une partie.",
 				"vers": "0_0_1_1",
 				"condition": [],
-				"consequence": []		
+				"consequence": [["Objet_BouquetDeFleurs", false],["Objet_Broche", false],["Objet_Marmite", false],["Reveil_Dortoir1_Gauche", false],["Reveil_Dortoir2_Droite", false],["Avoir_Vu_Elo_Dortoir_Chapitre1", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["Avoir_vu_Ccrazyie_dortoir_Chapitre1", false],["Avoir_vu_Ccrazyie_Salon_Chapitre2_Matin", false],["RDV_Pris_avec_Prunelle_pour_Jardin_Chapitre3", false], ["Avoir_Vu_Prunelle_Jardin_Chapitre3", false],["Objet_rateau_pris", false],["Avoir_Vu_Elo_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Elo_Hall_Chapitre3_Midi", false],["RDV_Pris_Prunelle_pour_Bar_Chapitre4", false],["Avoir_Vu_Lovetand_Ch3_Piscine", false],["Avoir_Vu_Lovetand_Ch2_Bibliotheque", false],["RDV_Pris_Clement_pour_Buffet", false],["Clement_date_effectue", false],["Avoir_Vu_Adelinette_Buffet_Chapitre4_Soir", false],["Avoir_Vu_Lovetand_Ch4_Buffet", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false],["Avoir_Vu_Elo_Hall_Chapitre3_Midi", false], ["Avoir_Vu_Elo_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Elo_Dortoir_Chapitre1", false],["Avoir_Vu_Elo_Hall_Chapitre2_Matin", false],["Avoir_Vu_Adelinette_Dortoir2_Chapitre1_Soir", false],["Affinite_Wakiza_plus2", false],["relation_adj_1", false], ["Danse_Refus_ADJ_Dancefloor", false], ["Danse_Faite_ADJ_Dancefloor", false],["Avoir_vu_Ccrazyie_PetitDejSalon_Chapitre2", false], ["Avoir_ParleAvec_Ccrazyie_Dancefloor_Chapitre4", false],["Objet_BraceletAmitie", false],["AffinitePerceneige_plus1", false],["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Objet_LivreLovetand", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Reveil_Dortoir1_Gauche", false], ["Reveil_Dortoir2_Droite", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Avoir_Vu_Klariss_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Klariss_Dortoir_Chapitre1", false], ["Affinite_Klariss_moins3", false], ["Affinite_Klariss_moins2", false], ["Affinite_Klariss_moins1", false], ["Affinite_Klariss_plus1", false], ["Affinite_Klariss_plus2", false], ["Affinite_Klariss_plus3", false], ["Avoir_Vu_Miroy_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Miroy_Dortoir_Chapitre1", false], ["Affinite_Miroy_moins3", false], ["Affinite_Miroy_moins2", false], ["Affinite_Miroy_moins1", false], ["Affinite_Miroy_plus1", false], ["Affinite_Miroy_plus2", false], ["Affinite_Miroy_plus3", false], ["Avoir_Vu_Clement_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Clement_Dortoir_Chapitre1", false], ["Affinite_Clement_moins3", false], ["Affinite_Clement_moins2", false], ["Affinite_Clement_moins1", false], ["Affinite_Clement_plus1", false], ["Affinite_Clement_plus2", false], ["Affinite_Clement_plus3", false], ["Avoir_Vu_Wakiza_Parc_Chapitre0", false], ["Avoir_ParleAvec_Wakiza_Parc_Chapitre0", false], ["Affinite_Wakiza_moins3", false], ["Affinite_Wakiza_moins2", false], ["Affinite_Wakiza_moins1", false], ["Affinite_Wakiza_plus1", false], ["Affinite_Wakiza_plus2", false], ["Affinite_Wakiza_plus3", false],["Avoir_Vu_Krom_Cuisine_Chapitre2", false], ["Avoir_ParleAvec_Krom_Cuisine_Chapitre2", false], ["Affinite_Krom_moins3", false], ["Affinite_Krom_moins2", false], ["Affinite_Krom_moins1", false], ["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Avoir_Vu_LesBlattes_Salon_Chapitre2", false], ["Avoir_ParleAvec_LesBlattes_Salon_Chapitre2", false], ["Affinite_LesBlattes_moins3", false], ["Affinite_LesBlattes_moins2", false], ["Affinite_LesBlattes_moins1", false], ["Affinite_LesBlattes_plus1", false], ["Affinite_LesBlattes_plus2", false], ["Affinite_LesBlattes_plus3", false], ["Avoir_Vu_Cray_Observatoire_Chapitre0", false], ["Avoir_ParleAvec_Cray_Observatoire_Chapitre0", false], ["Affinite_Cray_moins3", false], ["Affinite_Cray_moins2", false], ["Affinite_Cray_moins1", false], ["Affinite_Cray_plus1", false], ["Affinite_Cray_plus2", false], ["Affinite_Cray_plus3", false], ["Avoir_Vu_ADJ_Piscine_Chapitre5", false], ["Avoir_ParleAvec_ADJ_Piscine_Chapitre5", false], ["Affinite_ADJ_moins3", false], ["Affinite_ADJ_moins2", false], ["Affinite_ADJ_moins1", false], ["Affinite_ADJ_plus1", false], ["Affinite_ADJ_plus2", false], ["Affinite_ADJ_plus3", false],["Avoir_Vu_Krom_Cuisine_Chapitre2", false], ["Avoir_ParleAvec_Krom_Cuisine_Chapitre2", false], ["Affinite_Krom_moins3", false], ["Affinite_Krom_moins2", false], ["Affinite_Krom_moins1", false], ["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Avoir_Vu_LesBlattes_Salon_Chapitre2", false], ["Avoir_ParleAvec_LesBlattes_Salon_Chapitre2", false], ["Affinite_LesBlattes_moins3", false], ["Affinite_LesBlattes_moins2", false], ["Affinite_LesBlattes_moins1", false], ["Affinite_LesBlattes_plus1", false], ["Affinite_LesBlattes_plus2", false], ["Affinite_LesBlattes_plus3", false], ["Avoir_Vu_Cray_Observatoire_Chapitre0", false], ["Avoir_ParleAvec_Cray_Observatoire_Chapitre0", false], ["Affinite_Cray_moins3", false], ["Affinite_Cray_moins2", false], ["Affinite_Cray_moins1", false], ["Affinite_Cray_plus1", false], ["Affinite_Cray_plus2", false], ["Affinite_Cray_plus3", false], ["Avoir_Vu_ADJ_Piscine_Chapitre5", false], ["Avoir_ParleAvec_ADJ_Piscine_Chapitre5", false], ["Affinite_ADJ_moins3", false], ["Affinite_ADJ_moins2", false], ["Affinite_ADJ_moins1", false], ["Affinite_ADJ_plus1", false], ["Affinite_ADJ_plus2", false], ["Affinite_ADJ_plus3", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false],["Kooldesource_affinite_plus1", false],["Objet_Brouette_Kooldesource", false],["Kooldesource_affinite_moins3", false],["Kooldesource_affinite_moins2", false],["Kooldesource_affinite_moins1", false],["Kooldesource_affinite_plus1", false],["Kooldesource_affinite_plus2", false],["Kooldesource_affinite_plus3", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Date_Kooldesource", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Aguk_affinite_moins3", false],["Aguk_affinite_moins2", false],["Aguk_affinite_moins1", false],["Aguk_affinite_plus1", false],["Aguk_affinite_plus2", false],["Aguk_affinite_plus3", false],["Avoir_Vu_Aguk_Chapitre1_Dortoir", false],["objet_fromage", false],["Avoir_Vu_Aguk_Chapitre2_SalleGaming", false],["objet_chapeau_grenouille", false],["Avoir_Vu_Aguk_Chapitre3_Rooftop", false],["ciel_etoile", false],["Amitie_Aguk", false],["Avoir_Vu_Aguk_Chapitre4_Dancefloor", false],["Avoir_Danse_avec_Aguk", false],["Avoir_Vu_Aguk_Chapitre6_FinDeSoiree", false],["Clement_Envie_action", false],["Vouloir_sortir_avec_Clement", false],["Avoir_Vu_Clement_Chapitre3_CabaneArbre", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false],["Objet_Costume_Licorne", false],["Branche_LesBlattes_Chapitre2_Cuisine", false],["Affinite_Lovetand_moins3", false],["Affinite_Lovetand_moins2", false],["Affinite_Lovetand_moins1", false],["Affinite_Lovetand_plus1", false],["Affinite_Lovetand_plus2", false],["Affinite_Lovetand_plus3", false],["Lovetand_Questionnaire_Rate", false],["Lovetand_Questionnaire_Reussi", false],["22_Projet_Danse_Sereil_1_Ririsson_Fait", false],["22_Projet_Danse_Sereil_1_Orygamy_Fait", false],["Avoir_Date_Wakiza", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["Avoir_Vu_Cray_Chapitre3_Hall", false],["AVoir_Vu_Cray_Chapitre0_Observatoire", false]]		
 			}]
 		},{
 		  "identifiant": "0_0_1_1",
@@ -47,14 +47,14 @@
 			  "consequence": []		
 		  }, {
 			"question": "<i>S’approcher de la lumière dans les champs.</i>",
-			"vers": "14_Wakiza_Chapitre0_14_0_1",
+			"vers": "14_Wakiza_Chapitre0_14_0_0",
 			"condition": [],
 			"consequence": []		
 		}, {
 			"question": "“Ils ont un observatoire ! C’est le paradis des nerds ici !”",
 			"vers": "17_Cray_Chapitre0_1",
 			"condition": [],
-			"consequence": []		
+			"consequence": [["AVoir_Vu_Cray_Chapitre0_Observatoire", false]]		
 		}, {
 			  "question": "<i>S’éloigner dans la fôret.</i>",
 			  "vers": "0_0_2_2",
@@ -224,7 +224,7 @@
 	}]
 	}, {
 		"identifiant": "0_0_2_2_3",
-		"image": "backgrounds/Cimetiere2_Nuit.jpg",
+		"image": "backgrounds/Cimetiere_Nuit.jpg",
 		"texte": "<p>Vous vous baladez dans le cimetière. Il n'y a pas un chat.<p></p>",
 		"options": [{
 		  "question": "Ramasser la marmite posée sur une des tombes, sans raison apparente, puis sortir du cimetière et revenir dans le sous-bois.",
@@ -268,8 +268,8 @@
 			  "consequence": []		
 		  },{
 			"question": "“Qui dit salle de bain dit douche. J’ai pas envie de coller sur les draps !”",
-			"vers": "6_Kooldesource_Chapitre1_1",
-			"condition": [],
+			"vers": "6_Kooldesource_1_6_1_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false]],
 			"consequence": []		
 		},{
 			"question": "“Je vais m’installer dans le coin de la pièce sur le sol. Hé, c’est confortable !”",
@@ -283,10 +283,15 @@
 		  "texte": "<p>Vous êtes sur le point de vous endormir, mais vous entendez des murmures quelque part dans la salle. C’est assez fort pour être entendu mais pas assez pour vous empêcher de dormir. Comment dire… Vous avez déja dormi dans une chambre U de 9m2 ? Eh bien niveau bruit, ça dégage autant de décibels que votre mini frigo, sauf que là, le mini frigo semble parler !<p></p>",
 		  "options": [{
 			  "question": "Ignorer et s’endormir.",
-			  "vers": "2_0_3_4",
-			  "condition": [],
+			  "vers": "19_Aguk_Chapitre1_19_1_1",
+			  "condition": [["Avoir_Vu_Aguk_Chapitre1_Dortoir", false]],
 			  "consequence": []		
 		  },{
+			"question": "Ignorer et s’endormir.",
+			"vers": "2_0_3_4",
+			"condition": [["Avoir_Vu_Aguk_Chapitre1_Dortoir", true]],
+			"consequence": []		
+		},{
 			  "question": "“Bon, c’est quand même curieux, je vais voir !”",
 			  "vers": "13_Adelinette_Chapitre1_24_1_1",
 			  "condition": [],
@@ -357,10 +362,10 @@
 		  "image": "backgrounds/PetitDej_Terrasse_Matin.jpg",
 		  "texte": "<p>Vous prenez votre petit-déjeuner sur la terrasse avec d’autres lubiens. Une blatte qui vient tout juste de sortir du salon passe devant votre table semble vouloir vous adresser la parole. Elle est au raz du sol et vous ne parvenez pas à l’entendre.<p></p>",
 		  "options": [{
-			  "question": "<i>Berk, un insecte...</i>Ignorer la blatte et faire diversion en entamant la discussion avec votre voisin de table.",
+			  "question": "<i>Berk, un insecte...</i>Ignorer la blatte et faire diversion en entamant la discussion avec votre voisin de table le plus proche.",
 			  "vers": "14_Wakiza_Chapitre2_Matin_1",
 			  "condition": [["AvoirVu_Wakiza_Chapitre0_Soir", false]],
-			  "consequence": []		
+			  "consequence": [["AvoirVu_Wakiza_Chapitre2_Matin", true]]		
 		  },{
 			"question": "<i>Vous vous penchez dans sa direction et tendez l'oreille.</i>",
 			"vers": "10_LesBlattes_1",
@@ -413,7 +418,7 @@
 			"consequence": []		
 		},{
 			"question": "S’asseoir à côté de Crazyie.",
-			"vers": "5_Ccrazyie_Chapitre5_5_1_0_1",
+			"vers": "5_Ccrazyie_Chapitre5_5_1_0_0",
 			"condition": [["Avoir_vu_Ccrazyie_dortoir_Chapitre1", true]],
 			"consequence": []		
 		},{
@@ -477,21 +482,41 @@
 			  "condition": [],
 			  "consequence": []		
 		  },{
-			  "question": "Vous allez jardiner pour que le parc soit bien propre pour la fête.",
+			  "question": "Aller jardiner pour que le parc soit bien propre pour la fête.",
 			  "vers": "4_0_7_1",
 			  "condition": [],
 			  "consequence": []		
 		  },{
-			  "question": "Vous retournez vers la salle de réception pour aider à terminer les préparatifs du repas de ce soir.",
+			  "question": "Retourner vers la salle de réception pour aider à terminer les préparatifs du repas de ce soir.",
 			  "vers": "4_0_5_2",
 			  "condition": [],
 			  "consequence": []		
 		  },{
-			  "question": "Vous allez sur la terrasse.",
+			  "question": "Aller sur la terrasse.",
 			  "vers": "3_0_8_1",
 			  "condition": [],
 			  "consequence": []		
-		  }]
+		  },{
+			"question": "Aller parler au type discret.",
+			"vers": "17_Cray_Chapitre3_Hall_1",
+			"condition": [["Avoir_Vu_Cray_Chapitre3_Hall", false],["AVoir_Vu_Cray_Chapitre0_Observatoire", false]],
+			"consequence": []		
+		},{
+			"question": "Aller parler à Cray.",
+			"vers": "17_Cray_Chapitre3_Hall_1_1",
+			"condition": [["AVoir_Vu_Cray_Chapitre3_Hall", true],["AVoir_Vu_Cray_Chapitre0_Observatoire", false]],
+			"consequence": []		
+		},{
+			"question": "Aller parler à Cray.",
+			"vers": "17_Cray_Chapitre3_Hall_1_1",
+			"condition": [["AVoir_Vu_Cray_Chapitre3_Hall", false],["AVoir_Vu_Cray_Chapitre0_Observatoire", true]],
+			"consequence": []		
+		},{
+			"question": "Aller parler à Cray.",
+			"vers": "17_Cray_Chapitre3_Hall_1_1",
+			"condition": [["AVoir_Vu_Cray_Chapitre3_Hall", true],["AVoir_Vu_Cray_Chapitre0_Observatoire", true]],
+			"consequence": []		
+		}]
 	  }, {
 		  "identifiant": "3_0_1_14",
 		  "image": "backgrounds/HallEscaliers_Jour.jpg",
@@ -663,7 +688,17 @@
 			"consequence": []		
 		},{
 			"question": "Aller vers la serre.",
-			"vers": "",
+			"vers": "5_0_7_5_2",
+			"condition": [],
+			"consequence": []		
+		}]
+	},{
+		"identifiant": "5_0_7_5_2",
+		"image": "backgrounds/Serre_Jour_1.jpg",
+		"texte": "<p>Vous arrivez devant la serre.<p></p>",
+		"options": [{
+			"question": "Retourner vers la roseraie.",
+			"vers": "5_0_7_5_1",
 			"condition": [],
 			"consequence": []		
 		}]
@@ -674,7 +709,12 @@
 		"options": [{
 			"question": "Grimper dans la cabane.",
 			"vers": "2_Clement_Chapitre3_2_6_1",
-			"condition": [],
+			"condition": [["Avoir_Vu_Clement_Chapitre3_CabaneArbre", false]],
+			"consequence": [["Avoir_Vu_Clement_Chapitre3_CabaneArbre", true]]		
+		},{
+			"question": "Grimper dans la cabane.",
+			"vers": "5_0_7_6_1",
+			"condition": [["Avoir_Vu_Clement_Chapitre3_CabaneArbre", true]],
 			"consequence": []		
 		},{
 			"question": "Aller vers le jardin.",
@@ -682,10 +722,20 @@
 			"condition": [],
 			"consequence": []		
 		}]
+	},{
+		"identifiant": "5_0_7_6_1",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
+		"texte": "<p>Clément n'est plus là.<p></p>",
+		"options": [{
+			"question": "Descendre.",
+			"vers": "5_0_7_6",
+			"condition": [[]],
+			"consequence": []		
+		}]
 	}, {
 		  "identifiant": "4_0_5_2",
 		  "image": "backgrounds/PetitDej_Salon_Matin.jpg",
-		  "texte": "<p>Vous demandez aux lubiens présents ce qu’ils vont cuisiner et vous hésitez à proposer votre aide... Mais en même temps les petits fours tout fraîchement préparés vous font de l'oeil...<p></p>",
+		  "texte": "<p>À la salle de réception, vous demandez aux lubiens présents ce qu’ils vont cuisiner et vous hésitez à proposer votre aide... Mais en même temps les petits fours tout fraîchement préparés vous font de l'oeil...<p></p>",
 		  "options": [{
 			  "question": "Se motiver et aider à préparer le gâteau.",
 			  "vers": "4_0_5_3",
@@ -697,6 +747,46 @@
 			  "condition": [],
 			  "consequence": []		
 		  },{
+			"question": "Parler à Kooldesource qui joue avec les ustensiles.",
+			"vers": "6_Kooldesource_3_6_3_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", true],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false]],
+			"consequence": []		
+		},{
+			"question": "Parler à Kooldesource qui joue avec les ustensiles.",
+			"vers": "6_Kooldesource_3_6_3_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false]],
+			"consequence": []		
+		},{
+			"question": "Parler à Kooldesource qui joue avec les ustensiles.",
+			"vers": "6_Kooldesource_3_6_3_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]],
+			"consequence": []		
+		},{
+			"question": "Parler à Kooldesource qui joue avec les ustensiles.",
+			"vers": "6_Kooldesource_3_6_3_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", true],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]],
+			"consequence": []		
+		},{
+			"question": "Parler à Kooldesource qui joue avec les ustensiles.",
+			"vers": "6_Kooldesource_3_6_3_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", true],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false]],
+			"consequence": []		
+		},{
+			"question": "Parler à Kooldesource qui joue avec les ustensiles.",
+			"vers": "6_Kooldesource_3_6_3_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", true],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]],
+			"consequence": []		
+		},{
+			"question": "Parler à Kooldesource qui joue avec les ustensiles.",
+			"vers": "6_Kooldesource_3_6_3_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]],
+			"consequence": []		
+		},{
+			"question": "Parler à la sirène qui joue avec les ustensiles.",
+			"vers": "6_Kooldesource_3_6_3_1_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false]],
+			"consequence": []		
+		},{
 			"question": "Manger les mets déjà préparés.",
 			"vers": "13_Adelinette_Chapitre4_0_1_24",
 			"condition": [],
@@ -767,25 +857,135 @@
 		"image": "backgrounds/Terrasse_Jour.jpg",
 		"texte": "<p>Vous vous installez au bar à cocktails.<p></p>",
 		"options": [{
-			"question": "Adresser la parole au raton-laveur.",
+			"question": "Vous remarquez Prunelle et vous vous souvenez de votre rendez-vous.",
+			"vers": "7_Prunelle_Chapitre4_Bar_1",
+			"condition": [["RDV_Pris_Prunelle_pour_Bar_Chapitre4", true]],
+			"consequence": []		
+		},{
+			"question": "Il y a un raton-laveur au bar. C'est pas commun. Aller lui parler.",
 			"vers": "14_Wakiza_Chapitre4_Bar_0_1",
-			"condition": [["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", false]],
-			"consequence": []		
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", false]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
 		},{
-			"question": "Aller parler à Wakiza",
+			"question": "Wakiza est au bar, aller lui parler.",
 			"vers": "14_Wakiza_Chapitre4_Bar_0",
-			"condition": [["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false]],
-			"consequence": []		
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_plus2", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
 		},{
-			"question": "Aller parler à Wakiza",
+			"question": "Wakiza est au bar, aller lui parler.",
 			"vers": "14_Wakiza_Chapitre4_Bar_0",
-			"condition": [["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true]],
-			"consequence": []		
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_plus2", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
 		},{
-			"question": "Aller parler à Wakiza",
+			"question": "Wakiza est au bar, aller lui parler.",
 			"vers": "14_Wakiza_Chapitre4_Bar_0",
-			"condition": [["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true]],
-			"consequence": []		
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_plus2", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_plus1", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_plus1", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_plus1", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_1",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_1",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_1",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_2",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_moins1", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_2",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins1", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_2",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins1", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_2",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_moins2", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_2",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins2", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_2",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins2", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_3",
+			"condition": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_3",
+			"condition": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_3",
+			"condition": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4",
+			"condition": [["Objet_LongueVue", true],["Objet_LongueVue_Cachee", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4",
+			"condition": [["Objet_LongueVue", true],["Objet_LongueVue_Cachee", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4",
+			"condition": [["Objet_LongueVue", true],["Objet_LongueVue_Cachee", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4",
+			"condition": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4",
+			"condition": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4",
+			"condition": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
 		},{
 			"question": "Retourner vers le buffet",
 			"vers": "4_0_5_2_1",
@@ -869,6 +1069,16 @@
 		},{
 			"question": "La salle de gaming.",
 			"vers": "4_0_10_1_2",
+			"condition": [],
+			"consequence": []		
+		},{
+			"question": "Le rooftop.",
+			"vers": "4_0_10_1_3",
+			"condition": [],
+			"consequence": []		
+		},{
+			"question": "Le grenier.",
+			"vers": "4_0_10_1_4",
 			"condition": [],
 			"consequence": []		
 		},{
@@ -1002,10 +1212,55 @@
 			"condition": [["Avoir_Vu_Elo_Hall_Chapitre3_Midi", false], ["Avoir_Vu_Elo_Jardin_Chapitre4_ApresMidi", false], ["Avoir_Vu_Elo_Dortoir_Chapitre1", false], ["Avoir_Vu_Elo_Hall_Chapitre2_Matin", false]],
 			"consequence": []		
 		},{
-			"question": "Retourner au hall.",
-			"vers": "3_0_1_14",
+			"question": "Aguk le misérable regarde un film, s'approcher de lui.",
+			"vers": "19_Aguk_Chapitre2_19_1_3",
+			"condition": [["Avoir_Vu_Aguk_Chapitre2_SalleGaming", false]],
+			"consequence": []		
+		},{
+			"question": "Sortir de la salle de gaming.",
+			"vers": "4_0_10_1_0",
 			"condition": [],
 			"consequence": []		
+		}]
+	}, {
+		"identifiant": "4_0_10_1_3",
+		"image": "backgrounds/Rooftop_Jour.jpg",
+		"texte": "<p>Vous explorez le rooftop.<p></p>",
+		"options": [{
+			"question": "Vous apercevez dans un coin Aguk le misérable. Aller le voir.",
+			"vers": "19_Aguk_Chapitre3_19_1_7",
+			"condition": [["Avoir_Vu_Aguk_Chapitre3_Rooftop", false]],
+			"consequence": []		
+		},{
+			"question": "Sortir du rooftop.",
+			"vers": "4_0_10_1_0",
+			"condition": [],
+			"consequence": []		
+		}]
+	}, {
+		"identifiant": "4_0_10_1_4",
+		"image": "backgrounds/Grenier_Jour.jpg",
+		"texte": "<p>Vous vous aventurez dans le grenier. Il n'y a personne.<p></p>",
+		"options": [{
+			"question": "Ramasser le livre qui traîne au sol.",
+			"vers": "4_0_10_1_4_1",
+			"condition": [["Objet_LivreLovetand", false]],
+			"consequence": [["Objet_LivreLovetand", true]]		
+		},{
+			"question": "Sortir du grenier.",
+			"vers": "4_0_10_1_0",
+			"condition": [],
+			"consequence": []		
+		}]
+	},{
+		"identifiant": "4_0_10_1_4_1",
+		"image": "backgrounds/Grenier_Jour.jpg",
+		"texte": "<p>C'est le seul objet non poussiéreux, ici. Hum, Étrange...<p></p>",
+		"options": [{
+			"question": "Pouruivre.",
+			"vers": "4_0_10_1_0",
+			"condition": [[]],
+			"consequence": [["Objet_LivreLovetand", true]]		
 		}]
 	}, {
 		  "identifiant": "5_0_6_2",
@@ -1177,6 +1432,46 @@
 			"condition": [["Avoir_Vu_Lovetand_Ch3_Piscine", true],["Livre_Lovetand_Rendu", false]],
 			"consequence": []		
 		},{
+			"question": "Parler avec Kooldesource qui barbote",
+			"vers": "6_Kooldesource_3_6_2_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", true],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false]],
+			"consequence": []		
+		},{
+			"question": "Parler avec Kooldesource qui barbote.",
+			"vers": "6_Kooldesource_3_6_2_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false]],
+			"consequence": []		
+		},{
+			"question": "Parler avec Kooldesource qui barbote.",
+			"vers": "6_Kooldesource_3_6_2_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]],
+			"consequence": []		
+		},{
+			"question": "Parler avec Kooldesource qui barbote.",
+			"vers": "6_Kooldesource_3_6_2_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", true],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]],
+			"consequence": []		
+		},{
+			"question": "Parler avec Kooldesource qui barbote.",
+			"vers": "6_Kooldesource_3_6_2_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", true],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false]],
+			"consequence": []		
+		},{
+			"question": "Parler avec Kooldesource qui barbote.",
+			"vers": "6_Kooldesource_3_6_2_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", true],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]],
+			"consequence": []		
+		},{
+			"question": "Parler avec Kooldesource qui barbote.",
+			"vers": "6_Kooldesource_3_6_2_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]],
+			"consequence": []		
+		},{
+			"question": "Parler avec la sirène qui barbote.",
+			"vers": "6_Kooldesource_3_6_2_1",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false]],
+			"consequence": []		
+		},{
 			"question": "Bronzer sur un transat au bord de la piscine.",
 			"vers": "6_0_1_20",
 			"condition": [],
@@ -1218,7 +1513,7 @@
 			  "consequence": []		
 		  },{
 			  "question": "S’installer confortablement dans une grosse bouée flamant rose qui flottait près du bord, et profiter du beau temps.",
-			  "vers": "6_0_1_21",
+			  "vers": "6_0_1_20_2",
 			  "condition": [],
 			  "consequence": []		
 		  }]
@@ -1247,9 +1542,19 @@
 			  "condition": [],
 			  "consequence": []		
 		  }]
-	  }, {
+	  },{
+		"identifiant": "6_0_1_20_2",
+		"image": "backgrounds/Piscine_Dedans_Nuit.jpg",
+		"texte": "<p>Vous commencez à vous assoupir...<p></p>",
+		"options": [{
+			"question": "Tiens, je crois qu'un discours se prépare là bas.",
+			"vers": "6_0_1_21",
+			"condition": [],
+			"consequence": []		
+		}]
+	}, {
 		  "identifiant": "6_0_1_21",
-		  "image": "backgrounds/Piscine_Bronzage_Nuit.jpg",
+		  "image": "backgrounds/Terrasse_Repas_Nuit.jpg",
 		  "texte": "<p>Un lubien appelle tous les convives à se rassembler près de l’estrade, des discours vont être prononcés.<p></p>",
 		  "options": [{
 			  "question": "Se rapprocher de l’estrade et attendre le début des discours.",
@@ -1362,14 +1667,19 @@
 		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
 		"texte": "<p>Les discours sont terminés. De-ci de-lè, les lubiens commencent à plier bagage.<p></p>",
 		"options": [{
+			"question": "Avant que vous ne partiez, Wakiza vous propose de passer la fin de soirée avec lui à l’observatoire.",
+			"vers": "14_Wakiza_Chapitre4_Bar_6",
+			"condition": [["Avoir_Date_Wakiza", true]],
+			"consequence": []		
+		},{
+			"question": "Vous apercevez Aguk le misérable, toujours en train de ‘gratter la graille du buffet’. Aller le voir.",
+			"vers": "19_Aguk_Chapitre5_19_1_15",
+			"condition": [["Avoir_Vu_Aguk_Chapitre6_FinDeSoiree", false]],
+			"consequence": []		
+		},{
 			"question": "Dire au revoir à tout le monde et partir.",
 			"vers": "Fin_Classique",
 			"condition": [],
-			"consequence": []		
-		},{
-			"question": "Avant que vous ne partiez, Wakiza vous propose de passer la fin de soirée avec lui à l’observatoire.",
-			"vers": "14_Wakiza_Chapitre4_Bar_6",
-			"condition": [["Affinite_Wakiza_plus2", true]],
 			"consequence": []		
 		}]
 	}, {
@@ -1382,6 +1692,41 @@
 			"condition": [["relation_adj_1", true], ["Danse_Refus_ADJ_Dancefloor", false], ["Danse_Faite_ADJ_Dancefloor", false]],
 			"consequence": []	
 		},{
+			"question":  "Proposer une danse à Kooldesource.",
+			"vers": "6_Kooldesource_4_6_1_6",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", true],["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false]],
+			"consequence": []	
+		},{
+			"question":  "Proposer une danse à Kooldesource.",
+			"vers": "6_Kooldesource_4_6_1_6",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", true],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false]],
+			"consequence": []	
+		},{
+			"question":  "Proposer une danse à Kooldesource.",
+			"vers": "6_Kooldesource_4_6_1_6",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]],
+			"consequence": []	
+		},{
+			"question":  "Proposer une danse à Kooldesource.",
+			"vers": "6_Kooldesource_4_6_1_6",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", true],["Avoir_Vu_Kooldesource_Chapitre3_Salon", true],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]],
+			"consequence": []	
+		},{
+			"question":  "Proposer une danse à Kooldesource.",
+			"vers": "6_Kooldesource_4_6_1_6",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", true],["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]],
+			"consequence": []	
+		},{
+			"question":  "Proposer une danse à Kooldesource.",
+			"vers": "6_Kooldesource_4_6_1_6",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", true],["Avoir_Vu_Kooldesource_Chapitre3_Salon", true],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false]],
+			"consequence": []	
+		},{
+			"question":  "Proposer une danse à Kooldesource.",
+			"vers": "6_Kooldesource_4_6_1_6",
+			"condition": [["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", true],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]],
+			"consequence": []	
+		},{
 			"question":  "Tu vois Crazyie perdue dans ses pensées. Elle a l’air triste. Aller vers elle.",
 			"vers": "5_Ccrazyie_Chapitre4_5_1_1",
 			"condition": [["Avoir_vu_Ccrazyie_PetitDejSalon_Chapitre2", true], ["Avoir_ParleAvec_Ccrazyie_Dancefloor_Chapitre4", false]],
@@ -1390,6 +1735,16 @@
 			"question":  "Tu vois un raton-laveur au loin.. ça doit être Sereil ! C’est ta chance !",
 			"vers": "5_CcrazyieEtSereil_Chapitre40_24_0_1",
 			"condition": [["Objet_BraceletAmitie", true]],
+			"consequence": []	
+		},{
+			"question":  "Vous apercevez Aguk le misérable tout seul dans un coin. L'inviter à danser.",
+			"vers": "19_Aguk_Chapitre4_19_1_13",
+			"condition": [["Avoir_Vu_Aguk_Chapitre4_Dancefloor", false],["Amitie_Aguk", true]],
+			"consequence": []	
+		},{
+			"question":  "Vous apercevez Aguk le misérable tout seul dans un coin. L'inviter à danser.",
+			"vers": "19_Aguk_Chapitre4_19_1_13_1",
+			"condition": [["Avoir_Vu_Aguk_Chapitre4_Dancefloor", false],["Amitie_Aguk", false]],
 			"consequence": []	
 		},{
 			"question":  "Aller voir Perceneige au bord de la piste.",
@@ -1402,9 +1757,14 @@
 			"condition": [["Date_Adelinette_Buffet_Chapitre4_Soir", true]],
 			"consequence": []	
 		},{
-			"question":  "Hé ? Lubien.ne qui participe au mini-projet de Sereil, viens vers moi ?",
-			"vers": "Tous_les_lubiens_qui_participent_au_projet_de_Sereil",
-			"condition": [],
+			"question":  "<i>Orygamy vous propose sa main pour vous offrir une danse. Accepter.</i>",
+			"vers": "22_Projet_Danse_Sereil_1_Orygamy_1",
+			"condition": [["22_Projet_Danse_Sereil_1_Orygamy_Fait", false]],
+			"consequence": [["22_Projet_Danse_Sereil_1_Orygamy_Fait", true]]	
+		},{
+			"question":  "<i>Vous baissez la tête, un petit hérisson se présentant comme</i> «Ririsson» <i>vous tend la patte. Accepter.</i>",
+			"vers": "22_Projet_Danse_Sereil_1_Ririsson_1",
+			"condition": [["22_Projet_Danse_Sereil_1_Ririsson_Fait", true]],
 			"consequence": []	
 		}]
 	}, {
@@ -1792,17 +2152,17 @@
 			"question": "- Oui, j'ai hâte ! Mais il est tard, je vais me coucher.",
 			"vers": "1_0_1_6",
 			"condition": [],
-			"consequence": [["Avoir_vu_Clement_dortoir", true]]
+			"consequence": [["Avoir_Vu_Clement_Chapitre1_Dortoir", true]]
 		}, {
 			  "question": "- Et comment ! En fait j'aimerais bien en profiter pour trouver l'âme soeur",
 			  "vers": "2_Clement_Chapitre1_2_1_2",
 			  "condition": [],
-			  "consequence": [["Avoir_vu_Clement_dortoir", true]]
+			  "consequence": [["Avoir_Vu_Clement_Chapitre1_Dortoir", true]]
 		}, {
 			  "question": "- Tu ne trouves pas que ça manque quand même un peu d'action pour l'instant",
 			  "vers": "2_Clement_Chapitre1_2_5_1",
 			  "condition": [],
-			  "consequence": [["Avoir_vu_Clement_dortoir", true]]						
+			  "consequence": [["Avoir_Vu_Clement_Chapitre1_Dortoir", true]]						
 		}]
     },
 	
@@ -1869,7 +2229,7 @@
         }, {
 			  "question": "- Non, attends ! Tu prépares quoi avec tous ces trucs dans le coin ?",
 			  "vers": "2_Clement_Chapitre3_2_1_6",
-			  "condition": [["Envie_action", true]],
+			  "condition": [["Clement_Envie_action", true]],
 			  "consequence": []				  
 		}]
     },
@@ -1894,8 +2254,8 @@
 			  "condition": [],
 			  "consequence": [["Clement_Action_effectuee", true]]						
 		}, {
-			  "question": "-Houlà ! Très peu pour moi ! C'est étrange comme passe-temps",
-			  "vers": "4_0_1_23",
+			  "question": "-Houlà ! Très peu pour moi ! C'est étrange comme passe-temps. Vous sortez de la cabane",
+			  "vers": "4_0_1_16",
 			  "condition": [],
 			  "consequence": [["Clement_abandon", true]]						
 		}]
@@ -1912,7 +2272,7 @@
 			"consequence": [["Clement_date_effectue", true]]						
 		}, {
 			  "question": "- Finalement je vais peut-être y aller, désolé.e...",
-			  "vers": "4_0_1_23",
+			  "vers": "4_0_1_16",
 			  "condition": [],
 			  "consequence": [["Clement_abandon", true]]				
 		}]
@@ -1936,7 +2296,7 @@
 		"texte": "<p>Eh bien ! Cette discussion était vâchement profonde, stimulante, et enrichissante ! Allez, si tu veux on pourra se revoir au buffet de ce soir ! <p></p>",
 		"options": [{
 			"question": "- Ok, à ce soir peut-être",
-			"vers": "4_0_1_23",
+			"vers": "4_0_1_16",
 			"condition": [],
 			"consequence": [["Avoir_Vu_Clement_Chapitre3_CabaneArbre", true],["RDV_Pris_Clement_pour_Buffet", true],["Clement_date_effectue", true]]		
 		}]
@@ -2000,7 +2360,7 @@
 		"texte": "<p>Vous entamez une danse endiablée sur votre musique préférée, Clément a des étoiles dans les yeux, et vous aussi. C'est le coup de foudre !<p></p>",
 		"options": [{
 			"question": "FIN",
-			"vers": "2_Clement_Chapitre_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+			"vers": "Fin_Classique",
 			"condition": [],
 			"consequence": []		
 		}]
@@ -2011,7 +2371,7 @@
 		"image": "backgrounds/InstallationDortoir1_Gauche_Nuit.jpg",
 		"texte": "<p>Oui, c'est vrai... Bon, tente ta chance demain, je suis sûr que tu trouveras ton bonheur...<p></p>",
 		"options": [{
-			"question": "Option 1, 2, 3...",
+			"question": "Aller se coucher",
 			"vers": "1_0_1_6",
 			"condition": [],
 			"consequence": []		
@@ -2044,7 +2404,7 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre1_2_4_3",
-		"image": "backgrounds/2_Clement_Chapitre1_2_4_3.jpg",
+		"image": "backgrounds/InstallationDortoir1_Gauche_Nuit.jpg",
 		"texte": "<p>Incroyable, un deuxième Clément apparait ! Vous avez provoqué un paradoxe temporel en atterrissant dans le futur de votre propre branche narrative ! <p></p>",
 		"options": [{
 			"question": "Suite",
@@ -2056,11 +2416,16 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre1_2_4_4",
-		"image": "backgrounds/2_Clement_Chapitre1_2_4_4.jpg",
+		"image": "backgrounds/InstallationDortoir1_Gauche_Nuit.jpg",
 		"texte": "<p>Ah bah bravo ! Vous avez cassé le jeu ! C'est malin ! Vous n'avez plus qu'à commencer une nouvelle partie...<p></p>",
 		"options": [{
 			"question": "Non",
 			"vers": "2_Clement_Chapitre1_2_4_5",
+			"condition": [],
+			"consequence": []		
+		},{
+			"question": "Bon, ok d'accord. <i>Recommencer</i>",
+			"vers": "0_0_0_0",
 			"condition": [],
 			"consequence": []		
 		}]
@@ -2068,11 +2433,11 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre1_2_4_5",
-		"image": "backgrounds/2_Clement_Chapitre1_2_4_5.jpg",
+		"image": "backgrounds/InstallationDortoir1_Gauche_Nuit.jpg",
 		"texte": "<p>Ouaaaais ! T'as raison ! On s'en fout que le jeu soit cassé, c'est nous qu'on est les plus forts d'abord !! <p></p>",
 		"options": [{
-			"question": "Option 1, 2, 3...",
-			"vers": "2_Clement_Chapitre_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+			"question": "FIN",
+			"vers": "0_0_0_0",
 			"condition": [],
 			"consequence": []		
 		}]
@@ -2080,29 +2445,29 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre1_2_5_1",
-		"image": "backgrounds/2_Clement_Chapitre1_2_5_1.jpg",
+		"image": "backgrounds/InstallationDortoir1_Gauche_Nuit.jpg",
 		"texte": "<p>Hin, hin ! Tu as envie d'action ? Retrouve moi demain après-midi dans la cabane du jardin, c'est déjà une véritable expédition d'y aller, et je ne parle même pas de l'échelle qu'il faut emprunter pour accéder à la plateforme... Enfin bref, tu vois le genre.<p></p>",
 		"options": [{
 			"question": "- Ok ! Je vais me coucher alors, s'il faut être en forme demain !",
 			"vers": "1_0_1_6",
 			"condition": [],
-			"consequence": [["Envie_action", true]]		
+			"consequence": [["Clement_Envie_action", true]]		
 		}]
     },
 	
 		{
 		"identifiant": "2_Clement_Chapitre3_2_6_1",
-		"image": "backgrounds/2_Clement_Chapitre3_2_6_1.jpg",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
 		"texte": "<p>Vous entrez dans la cabane, Clément est affairé.<p></p>",
 		"options": [{
 			"question": "- C'est donc là que tu te planquais ! T'avais raison, c'est sportif pour venir jusqu'ici, mais ça vaut le coup on dirait...",
 			"vers": "2_Clement_Chapitre3_2_1_5",
-			"condition": [["Envie_action", true]],
+			"condition": [["Clement_Envie_action", true]],
 			"consequence": []						
 		},{
 			"question": "- Oh, bonjour ! Qu'est-ce que tu fais ?",
 			"vers": "2_Clement_Chapitre3_2_6_2",
-			"condition": [["Envie_action", false]],
+			"condition": [["Clement_Envie_action", false]],
 			"consequence": []						
 		}, {
 			  "question": "- Eh bien, c'est pas facile d'accès, mais c'est charmant comme lieu de rendez-vous !",
@@ -2114,7 +2479,7 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre3_2_6_2",
-		"image": "backgrounds/2_Clement_Chapitre3_2_6_2.jpg",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
 		"texte": "<p>Clément vous montre comment utiliser la fronde et lance un premier cailloux.<p></p>",
 		"options": [{
 			"question": "L'imiter",
@@ -2126,7 +2491,7 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre3_2_6_3",
-		"image": "backgrounds/2_Clement_Chapitre3_2_6_3.jpg",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
 		"texte": "<p>Vous entendez des grognements venant d'en bas. C'est Izaro ! Clément se marre tout en essayant de rester discret.<p></p>",
 		"options": [{
 			"question": "- Ha ! ha !",
@@ -2138,11 +2503,11 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre3_2_6_4",
-		"image": "backgrounds/2_Clement_Chapitre3_2_6_4.jpg",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
 		"texte": "<p>Qu'est-ce qu'on s'amuse ! Tu veux faire autre chose tant qu'à être ici ?<p></p>",
 		"options": [{
 			"question": "Non merci, je vais y aller. Merci pour l'accueil !",
-			"vers": "4_0_1_23",
+			"vers": "4_0_1_16",
 			"condition": [],
 			"consequence": [["Clement_abandon", true]]					
 		}, {
@@ -2155,11 +2520,11 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre3_2_6_5",
-		"image": "backgrounds/2_Clement_Chapitre3_2_6_5.jpg",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
 		"texte": "<p>Oh cool tu restes ! On va pouvoir tester les nouveaux produits hautement instables que je me suis procurés récemment !<p></p>",
 		"options": [{
 			"question": "- Ah, ça ?... je vais peut-être passer mon tour sur ce coup là.",
-			"vers": "4_0_1_23",
+			"vers": "4_0_1_16",
 			"condition": [],
 			"consequence": [["Clement_abandon", true]]					
 		}, {
@@ -2172,7 +2537,7 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre3_2_6_6",
-		"image": "backgrounds/2_Clement_Chapitre3_2_6_6.jpg",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
 		"texte": "<p>Aaaah... J'aime cet état d'esprit ! Bon, j'ai de la marmelade d'étoile et du sirop de citron bleu, je teste quoi en premier ?<p></p>",
 		"options": [{
 			"question": "- La marmelade d'étoile !",
@@ -2189,7 +2554,7 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre3_2_6_7",
-		"image": "backgrounds/2_Clement_Chapitre3_2_6_7.jpg",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
 		"texte": "<p>Ok, ça a UN PEU explosé, mais ça aurait pu être bien pire, donc ça va. On passe à la suite ?<p></p>",
 		"options": [{
 			"question": "Allez !",
@@ -2201,7 +2566,7 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre3_2_6_8",
-		"image": "backgrounds/2_Clement_Chapitre3_2_6_8.jpg",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
 		"texte": "<p>Zut ! Une alerte temporelle ! On dirait que quelqu'un est en train de se perdre dans la continuité. Tu m'excuses, c'est mon job d'intervenir face à ce genre de problèmes. J'en ai pour quelques secondes, je reviens ! Et surtout évite de me suivre.<p></p>",
 		"options": [{
 			"question": "Attendre le retour de Clément",
@@ -2218,7 +2583,7 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre3_2_6_9",
-		"image": "backgrounds/2_Clement_Chapitre3_2_6_9.jpg",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
 		"texte": "<p>Clément a disparu, vous patientez<p></p>",
 		"options": [{
 			"question": "...",
@@ -2230,18 +2595,18 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre3_2_6_10",
-		"image": "backgrounds/2_Clement_Chapitre3_2_6_10.jpg",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
 		"texte": "<p>Ouf ! Le problème est résolu ! C'était moins une. Merci pour ta patience. Bon malheureusement on n'a plus trop le temps de s'éparpiller, la soirée va bientôt commencer. C'était très cool en tout cas, merci d'être passé.e !<p></p>",
 		"options": [{
-			"question": "Sortir de la cabane et retourner vers la maison.",
-			"vers": "4_0_1_23",
+			"question": "Sortir de la cabane et retourner vers le jardin.",
+			"vers": "4_0_1_16",
 			"condition": [],
-			"consequence": []		
+			"consequence": [["Avoir_Vu_Clement_Chapitre3_CabaneArbre", true]]		
 		}]
     },
 	    {
 		"identifiant": "2_Clement_Chapitre3_2_7_1",
-		"image": "backgrounds/2_Clement_Chapitre3_2_8_1.jpg",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
 		"texte": "<p>Enchanté ! Moi c'est Clément ! Quel bon vent t'a amené.e jusqu'ici ?<p></p>",
 		"options": [{
 			"question": "- C'est joli ici, mais dis-moi, c'est quoi ces trucs dans le coin derrière toi ?",
@@ -2252,11 +2617,11 @@
     },
 		{
 		"identifiant": "2_Clement_Chapitre3_2_8_1",
-		"image": "backgrounds/2_Clement_Chapitre3_2_8_1.jpg",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
 		"texte": "<p>La marmelade d'étoile était trop instable, vous avez fait exploser la cabane, vous êtes mort.e sur le coup.<p></p>",
 		"options": [{
-			"question": "Fin ?",
-			"vers": "début de la trame de prunelle dans la crypte là",
+			"question": "Poursuivre.",
+			"vers": "7_Prunelle_Mort_Reboot_Cimetiere_1",
 			"condition": [],
 			"consequence": []		
 		}]
@@ -2264,7 +2629,7 @@
 	
 		{
 		"identifiant": "2_Clement_Chapitre3_2_9_1",
-		"image": "backgrounds/2_Clement_Chapitre3_2_9_1.jpg",
+		"image": "backgrounds/CabaneArbre_Jour.jpg",
 		"texte": "<p>Noooooon ! Pourquoi tu m'as suiviiiii ??! Bravo ! PAr ta faute on a causé un paradoxe temporel, j'étais en train de te sauver toi, dans une autre branche ! Enfin bref, si t'as pas compris c'est pas grave, ça viendra. Mais du coup impossible d'aller plus loin, va falloir que tu recommences là !<p></p>",
 		"options": [{
 			"question": "Recommencer",
@@ -2279,10 +2644,10 @@
 		"image": "backgrounds/2_Clement_Chapitre4_2_11_1.jpg",
 		"texte": "<p>Hé, salut ! Amuse toi bien, la fête ne fait que commencer !<p></p>",
 		"options": [{
-			"question": "aller profiter de la fête",
-			"vers": "4_0_1_23",
+			"question": "Retourner dans le jardin.",
+			"vers": "4_0_1_16",
 			"condition": [],
-			"consequence": []		
+			"consequence": [["Avoir_Vu_Clement_Chapitre3_CabaneArbre", true]]		
 		}]
     },
 	
@@ -2305,7 +2670,7 @@
 		"texte": "<p>Vous vous jetez sur le buffet tels deux gobelins sur un tas d'or. Parce que c'est aussi ça l'amour : savoir profiter ensemble de ce que la vie a de plus goûtu à offrir, en l'occurrence des petits fours.<p></p>",
 		"options": [{
 			"question": "FIN",
-			"vers": "2_Clement_Chapitre_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+			"vers": "Fin_Classique",
 			"condition": [],
 			"consequence": []		
 		}]
@@ -2713,7 +3078,7 @@
 			"consequence": [[]]		
 		}]
     },{
-		"identifiant": "5_Ccrazyie_Chapitre5_5_1_0_1",
+		"identifiant": "5_Ccrazyie_Chapitre5_5_1_0_0",
 		"image": "backgrounds/5_Ccrazyie_Chapitre1_1.jpg",
 		"texte": "<p>Salut, moi c'est Crazyie ! Tu as passé une bonne nuit j’espère ? Tu sais ce qu’il faut pour entamer une bonne journée ? Un combat de pierre-feuille-ciseau! Tu es prêt ?<p></p>",
 		"options": [{
@@ -3220,6 +3585,249 @@
 
 
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	{
+		"identifiant": "6_Kooldesource_1_6_1_1",
+		"image": "1_6_1_1.jpg",
+		"texte": "<p><i>Lorsque vous rentrez dans la salle de bain, une sirène est installée dans la baignoire, remplie d’eau, avec un coussin. Elle vous adresse un large sourire en faisant coucou de la main.</i> Salut, moi c'est Kooldesource !<p></p>",
+		"options": [{
+			"question": "- Pardon ! Je ne savais pas que c’était occupé.",
+			"vers": "6_Kooldesource_1_6_1_2",
+			"condition": [],
+			"consequence": []
+		}, {
+			"question": "- What a freak ! J’me casse",
+			"vers": "1_0_3_1_3",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "6_Kooldesource_1_6_1_2",
+		"image": "1_6_1_2.jpg",
+		"texte": "<p>- Pas le choix. Faut bien rester hydraté, pas vrai ? <p></p>",
+		"options": [{
+			"question": "- Bonne nuit, alors. <i>Retourner dans le dortoir</i>",
+			"vers": "1_0_3_1_3",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true],["Kooldesource_affinite_plus1", true]]
+		}, {
+			"question": "- Ça ne doit pas être pratique, d'être une sirène sur la terre ferme.",
+			"vers": "6_Kooldesource_1_6_1_3",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "6_Kooldesource_1_6_1_3",
+		"image": "1_6_1_3.jpg",
+		"texte": "<p>Kooldesource affiche un petit sourire embêté: ' M’en parle pas ! J’peux aller nulle part sans bras de dessous.' (ça doit vouloir dire 'jambes' ?)<p></p>",
+		"options": [{
+			"question": "Retourner dans le dortoir.",
+			"vers": "1_0_3_1_3",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "6_Kooldesource_3_6_1_4",
+		"image": "3_6_1_4.jpg",
+		"texte": "<p>Kooldesource barbotte dans la piscine. 'Hey ! Tu viens piquer une tête ? Elle est bonne !'<p></p>",
+		"options": [{
+			"question": "- Ok !",
+			"vers": "6_Kooldesource_3_6_2_1",
+			"condition": [],
+			"consequence": []
+		}, {
+			"question": "- Et si on allait se promener, plutôt ? Je pourrais tetransporter dans cette brouette !",
+			"vers": "6_Kooldesource_3_6_1_5",
+			"condition": [["Objet_Brouette_Kooldesource", true]],
+			"consequence": [["Kooldesource_affinite_plus1", true]]
+		}, {
+			"question": "- Et si on allait se promener, plutôt ? Je pourrais tetransporter dans cette brouette !",
+			"vers": "6_Kooldesource_3_6_1_5",
+			"condition": [["Objet_Brouette_Kooldesource", true],["Kooldesource_affinite_plus1", true]],
+			"consequence": [["Kooldesource_affinite_plus2", true]]
+		},{
+			"question": "- J’ai trouvé ce dictionnaire, si ça t'intéresse ?",
+			"vers": "6_Kooldesource_3_6_3_1",
+			"condition": [["Objet_Dictionnaire", true]],
+			"consequence": [["Kooldesource_affinite_moins1", true]]
+		},{
+			"question": "- Nope !",
+			"vers": "5_0_1_19_1",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Kooldesource_Chapitre3_Piscine", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "6_Kooldesource_3_6_1_5",
+		"image": "3_6_1_5.jpg",
+		"texte": "<p>Kooldesource, plein d’étoiles dans les yeux, monte dans la brouette et vous allez vous promener aux jardin, parmi les fleurs.<p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "4_0_1_16",
+			"condition": [],
+			"consequence": [["Objet_Brouette_Kooldesource", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "6_Kooldesource_4_6_1_6",
+		"image": "4_6_1_6.jpg",
+		"texte": "<p>Kooldesource, toujours dans sa brouette inondée, semble danser. Elle met de l’eau partout.<p></p>",
+		"options": [{
+			"question": "- Fais attention ! tu mets de l’eau partout, là !",
+			"vers": "6_Kooldesource_4_6_4_1",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true]]
+		}, {
+			"question": "Allez danser avec elle.",
+			"vers": "6_Kooldesource_4_6_1_7",
+			"condition": [],
+			"consequence": [["Kooldesource_affinite_plus2", true],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "6_Kooldesource_4_6_1_7",
+		"image": "4_6_1_7.jpg",
+		"texte": "<p>Kooldesource danse de plus belle. Elle prend vraiment son pied (ha ha).<p></p>",
+		"options": [{
+			"question": "Vous tentez un move de tecktonik",
+			"vers": "6_Kooldesource_4_6_5_1",
+			"condition": [],
+			"consequence": []
+		}, {
+			"question": "Vous engagez un charleston.",
+			"vers": "6_Kooldesource_4_6_1_8",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "6_Kooldesource_4_6_1_8",
+		"image": "4_6_1_8.jpg",
+		"texte": "<p>Kooldesource vous dit : - On s’amuse bien, ensemble ! ça te dit qu’on devienne copains ?<p></p>",
+		"options": [{
+			"question": "Peut-être même plus ?",
+			"vers": "6_Kooldesource_4_6_1_9",
+			"condition": [["Kooldesource_affinite_plus2", true]],
+			"consequence": []
+		}, {
+			"question": "- Carrément !",
+			"vers": "6_Kooldesource_4_6_6_1",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "6_Kooldesource_4_6_1_9",
+		"image": "4_6_1_9.jpg",
+		"texte": "<p>Kooldesource rougie: 'Aw ! T’es trop mignon !'<i>Il semble à présent que Kooldesource ait des sentiments pour toi.</i><p></p>",
+
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "6_0_1_21",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true],["Date_Kooldesource", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "6_Kooldesource_3_6_2_1",
+		"image": "6_Kooldesource_3_6_2_1.jpg",
+		"texte": "<p>Vous jouez avec la sirène dans la piscine. Elle balance un ballon avec son nez, comme un dauphin.<p></p>",
+		"options": [{
+			"question": "Partir en saluant Kooldesource",
+			"vers": "3_0_41_2",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Kooldesource_Chapitre3_Piscine", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "6_Kooldesource_3_6_3_1",
+		"image": "6_Kooldesource_3_6_3_1.jpg",
+		"texte": "<p>Mais c’est remplis de bêtises, ce truc-là ! Quelle sorte de malade utiliserait une 'fourchette' pour manger, sérieux !<p></p>",
+		"options": [{
+			"question": "Revenir à la salle de réception.",
+			"vers": "4_0_5_2",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Kooldesource_Chapitre3_Salon", true],["Objet_Brouette_Kooldesource", false]]
+		}]
+    },{
+		"identifiant": "6_Kooldesource_3_6_3_1_1",
+		"image": "6_Kooldesource_3_6_3_1.jpg",
+		"texte": "<p>Bonjour, moi c'est Kooldesource. Tu as vus ce truc-là ! Quelle sorte de malade utiliserait une 'fourchette' pour manger, sérieux !<p></p>",
+		"options": [{
+			"question": "Revenir à la salle de réception.",
+			"vers": "4_0_5_2",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Kooldesource_Chapitre3_Salon", true],["Objet_Brouette_Kooldesource", false]]
+		}]
+    },
+	
+	{
+		"identifiant": "6_Kooldesource_4_6_4_1",
+		"image": "4_6_4_1.jpg",
+		"texte": "<p>Kooldesource sourire naïvement: 'Oups ! Désolé !'<p></p>",
+		"options": [{
+			"question": "Retourner sur le dancefloor",
+			"vers": "6_0_12_1",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "6_Kooldesource_4_6_5_1",
+		"image": "backgrounds/_Perdu_Hopital_Nuit1.jpg",
+		"texte": "<p>Vous glissez sur une flaque & finissez votre soirée à l'hôpital.<p></p>",
+		"options": [{
+			"question": "Recommencer.",
+			"vers": "0_0_0_0",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "6_Kooldesource_4_6_6_1",
+		"image": "4_6_6_1.jpg",
+		"texte": "<p>Félicitations ! Vous vous êtes fait une amie aquatique.<p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "6_0_12_1",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true],["Amitie_Kooldesource", true]]
+		}]
+    },
+
+
+
+
+
+
+
 
 
 
@@ -4215,7 +4823,7 @@
 
 {
 	"identifiant": "7_Prunelle_Mort_Reboot_Cimetiere_1",
-	"image": "Cimetiere_Jour.jpg",
+	"image": "backgrounds/Cave_Crypte_Jour.jpg",
 	"texte": "<p>« Ah ! Je me doutais bien que je te reverrai ici ! Bienvenue dans le cimetière lubien ! Ne t’en fais pas. Ton décès n’est pas une fin, au contraire, ce n’est que le début de ton voyage ! Pour te récompenser d’être arrivé.e jusque-là, je vais te donner un choix que peu d’entre-nous avons dans ton cas. Réfléchis bien. Choisis bien : »<p></p>",
 	"options": [{
 		"question": "« Je peux faire en sorte que la Mort n’ait plus d’emprise sur toi, vous dit Prunelle, mais bien que tu retrouveras la vie, tu ne pourras pas revenir là où elle s’est arrêtée. L’aventure recommencera pour toi à ton réveil. »",
@@ -4235,7 +4843,7 @@
 	}]
 },{
 	"identifiant": "7_Prunelle_Mort_Reboot_Cimetiere_2",
-	"image": "Cimetiere_Jour.jpg",
+	"image": "backgrounds/Cave_Crypte_Jour.jpg",
 	"texte": "<p>« Excellent choix !, vous lance Prunelle tout sourire, ça te dit une petite visite du cimetière ? ». <i>Prunelle vous montre une brochure de balade en barque.</i><p></p>",
 	"options": [{
 		"question": "Oui pour la balade en barque.",
@@ -4255,7 +4863,7 @@
 	}]
 },{
 	"identifiant": "7_Prunelle_Mort_Reboot_Cimetiere_3",
-	"image": "Cimetiere_Jour.jpg",
+	"image": "backgrounds/Cave_Crypte_Jour.jpg",
 	"texte": "<p><i>Pour pouvoir accéder au fleuve et faire de la barque, Prunelle vous fait passer par une crypte ancienne, chargée par l’Histoire et les mythes d’anciens lubiens... Deux passages s’offrent à vous.</i><p></p>",
 	"options": [{
 		"question": "Vous descendez les escaliers.",
@@ -4270,7 +4878,7 @@
 	}]
 },{
 	"identifiant": "7_Prunelle_Mort_Reboot_Cimetiere_4",
-	"image": "Cimetiere_Jour.jpg",
+	"image": "backgrounds/Cave_Crypte_Jour.jpg",
 	"texte": "<p><i>Vous arrivez au fleuve : une barque, comme promis, vous y attend.</i> « Ce cours d’eau n’est pas ordinaire, vous annonce Prunelle, il transporte les âmes des lubiens passés et futurs. “Passés” parce qu’ils ont vécu leurs vies lubiennes, “futurs” parce qu’un lubien ne disparaît jamais vraiment. Il peut toujours revenir, même sous une forme différente. Comme une renaissance après sa première vie ! ». <i>La lubienne vous indique ensuite lentement du doigt la barque.</i><p></p>",
 	"options": [{
 		"question": "Vous vous installez tranquillement dans la barque.",
@@ -4285,7 +4893,7 @@
 	}]
 },{
 	"identifiant": "7_Prunelle_Mort_Reboot_Cimetiere_4_1",
-	"image": "Cimetiere_Jour.jpg",
+	"image": "backgrounds/Cave_Crypte_Jour.jpg",
 	"texte": "<p><i>Vous vous installez tranquillement à la barre de l'embarcation.</i><p></p>",
 	"options": [{
 		"question": "Poursuivre",
@@ -4295,7 +4903,7 @@
 	}]
 },{
 	"identifiant": "7_Prunelle_Mort_Reboot_Cimetiere_5",
-	"image": "Cimetiere_Jour.jpg",
+	"image": "backgrounds/Cave_Crypte_Jour.jpg",
 	"texte": "<p><i>Vous arrivez tout en haut de la bâtisse et surplombez le fleuve. Prunelle vous demande si vous souhaitez goûter l’eau du fleuve et vous tend une bouteille.</i> « Un goût indicible, magique, qui te changera à jamais »<i>, vous assure-t-elle.</i><p></p>",
 	"options": [{
 		"question": "Pas d’hésitation à avoir ! Vous la buvez.",
@@ -4320,7 +4928,7 @@
 	}]
 },{
 	"identifiant": "7_Prunelle_Mort_Reboot_Cimetiere_6",
-	"image": "Cimetiere_Jour.jpg",
+	"image": "backgrounds/Cave_Crypte_Jour.jpg",
 	"texte": "<p><i> Prunelle prend une gorgée avec un air amusé et passe un moment tranquille et « philosophique » avec vous. Que se passe-t-il après l’échange ?</i><p></p>",
 	"options": [{
 		"question": "Finalement, vous changez d’avis et buvez sa bouteille.",
@@ -4491,8 +5099,8 @@
 		"image": "backgrounds/Cuisine_Arriere_1.jpg",
 		"texte": "<p><b>Vous glissez sur la farine renversée. Votre tête heurte le plan de travail. Vous êtes mort.e. Dommage</b><p></p>",
 		"options": [{
-			"question": "Recommencer.",
-			"vers": "0_0_0_0",
+			"question": "Suite.",
+			"vers": "7_Prunelle_Mort_Reboot_Cimetiere_1",
 			"condition": [],
 			"consequence": [[]]		
 		}]
@@ -5572,7 +6180,7 @@
 		"image": "12_Lovetand_Chapitre_.jpg",
 		"texte": "<p>Une personne se sert très généreusement au buffet. On voit qu’elle est bonne vivante ! Pourquoi ne pas attirer son attention ?<p></p>",
 		"options": [{
-			"question": "Ça me fait bien plaisir. À plus tard.",
+			"question": "Hey, salut! Les samoussas aux crevettes sont une dinguerie, tavu.",
 			"vers": "12_Lovetand_Chapitre4_Buffet_4_1",
 			"condition": [[]],
 			"consequence": [[]]		
@@ -6022,35 +6630,140 @@
 		},{
 			"question": "Il y a un raton-laveur au bar. C'est pas commun. Aller lui parler.",
 			"vers": "14_Wakiza_Chapitre4_Bar_0_1",
-			"condition": [["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", false]],
-			"consequence": []		
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", false]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
 		},{
 			"question": "Wakiza est au bar, aller lui parler.",
 			"vers": "14_Wakiza_Chapitre4_Bar_0",
-			"condition": [["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false]],
-			"consequence": []		
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_plus2", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
 		},{
 			"question": "Wakiza est au bar, aller lui parler.",
 			"vers": "14_Wakiza_Chapitre4_Bar_0",
-			"condition": [["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true]],
-			"consequence": []		
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_plus2", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
 		},{
 			"question": "Wakiza est au bar, aller lui parler.",
 			"vers": "14_Wakiza_Chapitre4_Bar_0",
-			"condition": [["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true]],
-			"consequence": []		
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_plus2", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_plus1", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_plus1", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_plus1", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_1",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_1",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_1",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_2",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_moins1", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_2",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins1", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_2",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins1", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_2",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_moins2", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_2",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins2", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_2",
+			"condition": [["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins2", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_3",
+			"condition": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_3",
+			"condition": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_3",
+			"condition": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4",
+			"condition": [["Objet_LongueVue", true],["Objet_LongueVue_Cachee", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4",
+			"condition": [["Objet_LongueVue", true],["Objet_LongueVue_Cachee", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4",
+			"condition": [["Objet_LongueVue", true],["Objet_LongueVue_Cachee", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4",
+			"condition": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4",
+			"condition": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
+		},{
+			"question": "Wakiza est au bar, aller lui parler.",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4",
+			"condition": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["AvoirVu_Wakiza_Chapitre4_Bar", false],["AvoirVu_Wakiza_Chapitre0_Soir", true],["AvoirVu_Wakiza_Chapitre2_Matin", true],["Affinite_Wakiza_moins3", true]],
+			"consequence": [["AvoirVu_Wakiza_Chapitre4_Bar", true]]		
 		},{
 			"question": "Parler à la barmaid",
 			"vers": "13_Adelinette_Chapitre3_24_5_1_1",
 			"condition": [],
 			"consequence": [[]]		
 		},{
-			"question": "Je vais te prendre un jus de citron.",
+			"question": "Commander un jus de citron à la barmaid.",
 			"vers": "13_Adelinette_Chapitre3_24_5_3",
 			"condition": [],
 			"consequence": [[]]		
 		},{
-			"question": "Je vais te prendre un cassoulet.",
+			"question": "Commander un cassoulet à la barmaid.",
 			"vers": "13_Adelinette_Chapitre3_24_5_4",
 			"condition": [],
 			"consequence": [[]]		
@@ -6135,8 +6848,8 @@
 		"image": "13_Adelinette_Chapitre1_1.jpg",
 		"texte": "<p>Adelinette vous poignarde avec le premier couteau qui lui tombe sous la main.. Dommage, vous ne verrez pas la fin de soirée. Vous n’aviez qu’à être plus sympa !<p></p>",
 		"options": [{
-			"question": "Recommencer.",
-			"vers": "0_0_0_0",
+			"question": "Poursuivre.",
+			"vers": "7_Prunelle_Mort_Reboot_Cimetiere_1",
 			"condition": [[]],
 			"consequence": [[]]		
 		}]
@@ -6202,8 +6915,23 @@
 
 
 	{
+		"identifiant": "14_Wakiza_Chapitre0_14_0_0",
+		"image": "backgrounds/Champ_de_fourage_Nuit.jpg",
+		"texte": "<p>Vous marchez à travers champs, l'ambiance n'est pas très rassurante. La lune éclaire vos pas et la lumière se rapproche petit à petit.<p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "14_Wakiza_Chapitre0_14_0_1",
+			"condition": [],
+			"consequence": [["AvoirVu_Wakiza_Chapitre0_Soir", true]]		
+		},{
+			"question": "Faire demi-tour.",
+			"vers": "0_0_2_1",
+			"condition": [],
+			"consequence": [[]]		
+		}]
+    },{
 		"identifiant": "14_Wakiza_Chapitre0_14_0_1",
-		"image": "14_Wakiza_Chapitre0_1.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_nuit.jpg",
 		"texte": "<p>Il s'agit d’un raton-laveur avec une lanterne. Il est très agité et semble chercher quelque chose dans le ciel.<p></p>",
 		"options": [{
 			"question": "Pourquoi tu es seul dans ce champ?",
@@ -6218,7 +6946,7 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre0_14_0_2",
-		"image": "14_Wakiza_Chapitre0_1.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_nuit.jpg",
 		"texte": "<p>Bonjour, je me nomme Wakiza, je cherche le meilleur point de vue pour regarder les aurores d’été. Sous sa patte il porte une longue-vue bleu incrustée d’étoiles en or. L’objet semble très important à ses yeux.<p></p>",
 		"options": [{
 			"question": "Regarder la longue vue de plus près.",
@@ -6233,7 +6961,7 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre0_14_0_3",
-		"image": "14_Wakiza_Chapitre0_1.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_nuit.jpg",
 		"texte": "<p>Une lumière t'éclaire. Le raton-laveur t’aide à te relever. Tu remarques une longue-vue qu’il transporte avec lui. Elle est bleu avec des incrustations d’étoiles en or. L’objet semble précieux.<p></p>",
 		"options": [{
 			"question": "<i>Tu lui prends l’objet des mains et tu cries:</i> ‘’Où as-tu trouvé cette magnifique longue-vue? J’adore l'astronomie!’’",
@@ -6243,12 +6971,42 @@
 		},{
 			"question": "Tu lui prends la longue-vue des pattes et tu pars en courant. C’est un voleur, avec sont masque noir c’est certain qu’il l’a volé.",
 			"vers": "14_Wakiza_Chapitre0_14_0_5",
-			"condition": [],
-			"consequence": [["Objet_LongueVue", true],["Affinite_Wakiza_moins1", true]]		
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Objet_LongueVue", true],["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu lui prends la longue-vue des pattes et tu pars en courant. C’est un voleur, avec sont masque noir c’est certain qu’il l’a volé.",
+			"vers": "14_Wakiza_Chapitre0_14_0_5",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Objet_LongueVue", true],["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu lui prends la longue-vue des pattes et tu pars en courant. C’est un voleur, avec sont masque noir c’est certain qu’il l’a volé.",
+			"vers": "14_Wakiza_Chapitre0_14_0_5",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Objet_LongueVue", true],["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu lui prends la longue-vue des pattes et tu pars en courant. C’est un voleur, avec sont masque noir c’est certain qu’il l’a volé.",
+			"vers": "14_Wakiza_Chapitre0_14_0_5",
+			"condition": [["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Objet_LongueVue", true],["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu lui prends la longue-vue des pattes et tu pars en courant. C’est un voleur, avec sont masque noir c’est certain qu’il l’a volé.",
+			"vers": "14_Wakiza_Chapitre0_14_0_5",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Objet_LongueVue", true],["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu lui prends la longue-vue des pattes et tu pars en courant. C’est un voleur, avec sont masque noir c’est certain qu’il l’a volé.",
+			"vers": "14_Wakiza_Chapitre0_14_0_5",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Objet_LongueVue", true],["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu lui prends la longue-vue des pattes et tu pars en courant. C’est un voleur, avec sont masque noir c’est certain qu’il l’a volé.",
+			"vers": "14_Wakiza_Chapitre0_14_0_5",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["Objet_LongueVue", true],["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]]		
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre0_14_0_4",
-		"image": "14_Wakiza_Chapitre0_1.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_nuit.jpg",
 		"texte": "<p>Wakiza est très content de voir ton enthousiasme pour un sujet qui le passionne.<p></p>",
 		"options": [{
 			"question": "Tu regardes 2 étoiles dans le ciel, elles brillent intensément ensemble. Tu T’assois au sol, épuisé par ta journée ‘’Tu connais des histoires sur les étoiles?’’",
@@ -6263,27 +7021,52 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre0_14_0_5",
-		"image": "14_Wakiza_Chapitre0_1.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_nuit.jpg",
 		"texte": "<p><i>Wakiza est interloqué, il te pourchasse.</i> ‘’Hey mais c’est quoi ces manières!’’</p><i>Tu vas à l’observatoire pour restituer la longue-vue.</i><p></p>",
 		"options": [{
 			"question": "Tu caches la longue-vue derrière un meuble.",
 			"vers": "14_Wakiza_Chapitre0_14_0_8",
-			"condition": [["Affinite_Wakiza_moins1", false]],
-			"consequence": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["Affinite_Wakiza_moins1", true]]		
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
 		},{
 			"question": "Tu caches la longue-vue derrière un meuble.",
 			"vers": "14_Wakiza_Chapitre0_14_0_8",
-			"condition": [["Affinite_Wakiza_moins1", true]],
-			"consequence": [["Objet_LongueVue", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false]]		
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu caches la longue-vue derrière un meuble.",
+			"vers": "14_Wakiza_Chapitre0_14_0_8",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu caches la longue-vue derrière un meuble.",
+			"vers": "14_Wakiza_Chapitre0_14_0_8",
+			"condition": [["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu caches la longue-vue derrière un meuble.",
+			"vers": "14_Wakiza_Chapitre0_14_0_8",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu caches la longue-vue derrière un meuble.",
+			"vers": "14_Wakiza_Chapitre0_14_0_8",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu caches la longue-vue derrière un meuble.",
+			"vers": "14_Wakiza_Chapitre0_14_0_8",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["Objet_LongueVue", false],["Objet_LongueVue_Cachee", true],["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]]		
 		},{
 			"question": "Tu dépose la longue-vue sur une table de l’entrée.",
-			"vers": "14_Wakiza_Chapitre0_14_0_9",
+			"vers": "14_Wakiza_Chapitre0_14_0_8",
 			"condition": [],
 			"consequence": [[]]		
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre0_14_0_6",
-		"image": "14_Wakiza_Chapitre0_1.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_nuit.jpg",
 		"texte": "<p><i>Wakiza te fait signe que oui de la tête.</i>‘’Chez les ratons, ont les nomment les amoureux nocturnes. On raconte qu’un jour, un raton trouva un morceau d’étoile tombé du ciel. C’était une pierre très brillante. Puisqu’il la trouvait magnifique, il voulut l'offrir en cadeau à une ratonne qu’il aimait beaucoup. Malheureusement, au moment de la lui donner, il l’échappa sur une grosse pierre et elle se brisa en deux. La ratonne prit peur et les lança haut dans le ciel. Les 2 morceaux restèrent dans le firmament, sans pouvoir être unis en une seule âme. Pour ne pas que leur amour se divise aussi, ses deux étoiles se mirent à briller le plus fort possible.  Ainsi, elle resterait toujours ensemble sous la protection l’une de l’autre. On dit que ses ratons furent punis et ne trouvèrent jamais l’amour pour cette affront envers le ciel’’<p></p>",
 		"options": [{
 			"question": "Tu t’endors dans le champ en songeant à la légende.",
@@ -6298,13 +7081,43 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre0_14_0_7",
-		"image": "14_Wakiza_Chapitre0_1.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_nuit.jpg",
 		"texte": "<p><i>Wakiza se couche dans l’herbe.</i> Le chant des insectes lui fait tourner gentiment les oreilles de temps à autre. Sa voix grave est étrangement douce et apaisé.  ‘’Savais-tu que pour les ratons-laveurs, les aurores boréales sont le signe qu’un nouvel amour naît entre 2 âmes soeurs. C’est l’énergie de l’univers qui approuvent leur amour et les unis sous sa protection. Ils sont destinée à une vie heureuse et passionné ensemble.’’</i><p></p>",
 		"options": [{
 			"question": "Tu trouves l’histoire de Wakiza très jolie. Tu lui portes un regard amical. Tu te demandes pourquoi il te raconte tout cela. Tu es trop gêné pour le lui demander et il se fait tard et tu t’endors sous le ciel nocturne.",
 			"vers": "14_Wakiza_Chapitre0_14_0_11",
-			"condition": [["Affinite_Wakiza_moins1", false]],
-			"consequence": [["Affinite_Wakiza_plus1", true]]		
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu trouves l’histoire de Wakiza très jolie. Tu lui portes un regard amical. Tu te demandes pourquoi il te raconte tout cela. Tu es trop gêné pour le lui demander et il se fait tard et tu t’endors sous le ciel nocturne.",
+			"vers": "14_Wakiza_Chapitre0_14_0_11",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu trouves l’histoire de Wakiza très jolie. Tu lui portes un regard amical. Tu te demandes pourquoi il te raconte tout cela. Tu es trop gêné pour le lui demander et il se fait tard et tu t’endors sous le ciel nocturne.",
+			"vers": "14_Wakiza_Chapitre0_14_0_11",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu trouves l’histoire de Wakiza très jolie. Tu lui portes un regard amical. Tu te demandes pourquoi il te raconte tout cela. Tu es trop gêné pour le lui demander et il se fait tard et tu t’endors sous le ciel nocturne.",
+			"vers": "14_Wakiza_Chapitre0_14_0_11",
+			"condition": [["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu trouves l’histoire de Wakiza très jolie. Tu lui portes un regard amical. Tu te demandes pourquoi il te raconte tout cela. Tu es trop gêné pour le lui demander et il se fait tard et tu t’endors sous le ciel nocturne.",
+			"vers": "14_Wakiza_Chapitre0_14_0_11",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu trouves l’histoire de Wakiza très jolie. Tu lui portes un regard amical. Tu te demandes pourquoi il te raconte tout cela. Tu es trop gêné pour le lui demander et il se fait tard et tu t’endors sous le ciel nocturne.",
+			"vers": "14_Wakiza_Chapitre0_14_0_11",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]]		
+		},{
+			"question": "Tu trouves l’histoire de Wakiza très jolie. Tu lui portes un regard amical. Tu te demandes pourquoi il te raconte tout cela. Tu es trop gêné pour le lui demander et il se fait tard et tu t’endors sous le ciel nocturne.",
+			"vers": "14_Wakiza_Chapitre0_14_0_11",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]]		
 		},{
 			"question": "Tu ne dis rien, ces histoires là c’est pas trop ta tasse de thé. Tu t'endors dans le champ.",
 			"vers": "14_Wakiza_Chapitre0_14_0_10",
@@ -6313,7 +7126,7 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre0_14_0_8",
-		"image": "14_Wakiza_Chapitre0_1.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_nuit.jpg",
 		"texte": "<p><i>Wakiza est très fâché. Il te saisit le bras.Tu sens ses griffes dans ta peau.</i> ‘’Où elle est c’est un souvenir de ma grand-mère!’’<p></p>",
 		"options": [{
 			"question": "Tu t’excuses et tu lui indique où elle est.",
@@ -6323,12 +7136,42 @@
 		},{
 			"question": "Tu ne le crois pas et tu le mets à la porte comme le mérite une bête sauvage qui a la rage.",
 			"vers": "14_Wakiza_Chapitre0_14_0_13",
-			"condition": [["Affinite_Wakiza_moins2", true]],
-			"consequence": [["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false]]		
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu ne le crois pas et tu le mets à la porte comme le mérite une bête sauvage qui a la rage.",
+			"vers": "14_Wakiza_Chapitre0_14_0_13",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu ne le crois pas et tu le mets à la porte comme le mérite une bête sauvage qui a la rage.",
+			"vers": "14_Wakiza_Chapitre0_14_0_13",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu ne le crois pas et tu le mets à la porte comme le mérite une bête sauvage qui a la rage.",
+			"vers": "14_Wakiza_Chapitre0_14_0_13",
+			"condition": [["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu ne le crois pas et tu le mets à la porte comme le mérite une bête sauvage qui a la rage.",
+			"vers": "14_Wakiza_Chapitre0_14_0_13",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu ne le crois pas et tu le mets à la porte comme le mérite une bête sauvage qui a la rage.",
+			"vers": "14_Wakiza_Chapitre0_14_0_13",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu ne le crois pas et tu le mets à la porte comme le mérite une bête sauvage qui a la rage.",
+			"vers": "14_Wakiza_Chapitre0_14_0_13",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]]		
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre0_14_0_9",
-		"image": "hall.jpg",
+		"image": "backgrounds/HallEscaliers_Nuit.jpg",
 		"texte": "<p><i>Wakiza est très fâché. Il te saisit le bras.</i></p>‘’C’est un souvenir de ma grand-mère! Ne refais plus jamais cela!’’<p></p>",
 		"options": [{
 			"question": "Tu vas dans le hall, tu as très sommeil.",
@@ -6363,7 +7206,7 @@
 	  }]
 	}, {
 		"identifiant": "14_Wakiza_Chapitre0_14_0_10",
-		"image": "hall.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_Matin.jpg",
 		"texte": "<p>Tu te réveilles en compagnie de Wakiza. ‘’Aimerais-tu aller manger avec moi? Il y a un petit-déjeuner’ offert à la terrasse.’’<p></p>",
 		"options": [{
 			"question": "Non merci, je préfère prendre mon petit-déjeuner à l'intérieur. <i>Se diriger vers le salon, sans Wakiza.</i>",
@@ -6378,7 +7221,7 @@
 		}]
     }, {
 		"identifiant": "14_Wakiza_Chapitre0_14_0_11",
-		"image": "hall.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_Matin.jpg",
 		"texte": "<p>Tu es réveillé par le champ des oiseaux. Une veste te couvre les épaules. Wakiza est couché en rond contre toi. Sa queue annelée chatouille tes côtes.<p></p>",
 		"options": [{
 			"question": "Rire aux éclats.",
@@ -6393,17 +7236,47 @@
 		}]
     }, {
 		"identifiant": "14_Wakiza_Chapitre0_14_0_12",
-		"image": "hall.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_nuit.jpg",
 		"texte": "<p>Wakiza accepte tes excuses. Tu as sommeil.<p></p>",
 		"options": [{
 			"question": "Tu te diriges vers le hall.",
 			"vers": "14_Wakiza_Chapitre0_14_0_9_1",
-			"condition": [],
-			"consequence": [["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins3", false]]		
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu te diriges vers le hall.",
+			"vers": "14_Wakiza_Chapitre0_14_0_9_1",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu te diriges vers le hall.",
+			"vers": "14_Wakiza_Chapitre0_14_0_9_1",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu te diriges vers le hall.",
+			"vers": "14_Wakiza_Chapitre0_14_0_9_1",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]]		
+		},{
+			"question": "Tu te diriges vers le hall.",
+			"vers": "14_Wakiza_Chapitre0_14_0_9_1",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu te diriges vers le hall.",
+			"vers": "14_Wakiza_Chapitre0_14_0_9_1",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu te diriges vers le hall.",
+			"vers": "14_Wakiza_Chapitre0_14_0_9_1",
+			"condition": [["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
 		}]
     }, {
 		"identifiant": "14_Wakiza_Chapitre0_14_0_13",
-		"image": "hall.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_nuit.jpg",
 		"texte": "<p>Wakiza ne t’apprécie pas. Tu devrais l’éviter à l’avenir.<p></p>",
 		"options": [{
 			"question": "Tu te diriges vers le hall.",
@@ -6413,7 +7286,7 @@
 		}]
     }, {
 		"identifiant": "14_Wakiza_Chapitre0_14_0_14",
-		"image": "hall.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_Matin.jpg",
 		"texte": "<p>Le raton se réveille en sursaut. Il te propose d’aller déjeuner avec lui.<p></p>",
 		"options": [{
 			"question": "Non merci, je préfère prendre mon petit-déjeuner à l'intérieur. <i>Se diriger vers le salon, sans Wakiza.</i>",
@@ -6428,32 +7301,52 @@
 		}]
     }, {
 		"identifiant": "14_Wakiza_Chapitre0_14_0_15",
-		"image": "hall.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_Matin.jpg",
 		"texte": "<p>Au bout de quelques minutes, ton compagnon de sommeil se réveille. Il te regarde du coin de l’oeil. Il te semble le voir rougir.<p></p>",
 		"options": [{
-			"question": "Lui tendre sa veste. ‘’J’aimerais aller déjeuner. Je crois qu’il y a à manger à la cuisine.",
+			"question": "Lui tendre sa veste et dire:‘’J’aimerais aller déjeuner. Je crois qu’il y a à manger à la cuisine.‘’",
 			"vers": "14_Wakiza_Chapitre0_14_0_15_1",
-			"condition": [["Affinite_Wakiza_plus1", true]],
-			"consequence": [["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true]]		
+			"condition": [[]],
+			"consequence": [[]]		
 		},{
-			"question": "Lui tendre sa veste. ‘’J’aimerais aller déjeuner. Je crois qu’il y a à manger à la cuisine.",
-			"vers": "14_Wakiza_Chapitre0_14_0_15_1",
-			"condition": [["Affinite_Wakiza_plus1", false]],
-			"consequence": [["Affinite_Wakiza_plus1", true]]		
-		},{
-			"question": "Juste lui tendre sa veste, un peu gêné.e.",
+			"question": "Lui tendre sa veste, un peu gêné.e. et dire: ‘’Ta fourrure est douce.‘’",
 			"vers": "14_Wakiza_Chapitre0_14_0_15_2",
-			"condition": [["Affinite_Wakiza_plus1", true]],
-			"consequence": [["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true]]		
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
 		},{
-			"question": "Juste lui tendre sa veste, un peu gêné.e.",
+			"question": "Lui tendre sa veste, un peu gêné.e. et dire: ‘’Ta fourrure est douce.‘’",
 			"vers": "14_Wakiza_Chapitre0_14_0_15_2",
-			"condition": [["Affinite_Wakiza_plus1", false]],
-			"consequence": [["Affinite_Wakiza_plus1", true]]		
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Lui tendre sa veste, un peu gêné.e. et dire: ‘’Ta fourrure est douce.‘’",
+			"vers": "14_Wakiza_Chapitre0_14_0_15_2",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Lui tendre sa veste, un peu gêné.e. et dire: ‘’Ta fourrure est douce.‘’",
+			"vers": "14_Wakiza_Chapitre0_14_0_15_2",
+			"condition": [["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Lui tendre sa veste, un peu gêné.e. et dire: ‘’Ta fourrure est douce.‘’",
+			"vers": "14_Wakiza_Chapitre0_14_0_15_2",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Lui tendre sa veste, un peu gêné.e. et dire: ‘’Ta fourrure est douce.‘’",
+			"vers": "14_Wakiza_Chapitre0_14_0_15_2",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]]		
+		},{
+			"question": "Lui tendre sa veste, un peu gêné.e. et dire: ‘’Ta fourrure est douce.‘’",
+			"vers": "14_Wakiza_Chapitre0_14_0_15_2",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]]		
 		}]
     }, {
 		"identifiant": "14_Wakiza_Chapitre0_14_0_15_1",
-		"image": "cuisine.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>En cuisine, on vous signale que le service se fait au salon ou à la terrasse.<p></p>",
 		"options": [{
 			"question": "Aller petit-déjeuner en terrasse, avec Wakiza.",
@@ -6468,18 +7361,43 @@
 		}]
     }, {
 		"identifiant": "14_Wakiza_Chapitre0_14_0_15_2",
-		"image": "cuisine.jpg",
+		"image": "backgrounds/Champ_devant_lobservatoire_2_Matin.jpg",
 		"texte": "<p>‘‘Merci, elle est confortable. J’ai faim? Tu aimerais prendre ton petit déjeuner avec moi?’’<p></p>",
 		"options": [{
 			"question": "Volontier.",
 			"vers": "14_Wakiza_Chapitre2_Matin_3",
-			"condition": [["Affinite_Wakiza_plus1", true]],
-			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakizaplus2", true],["Affinite_Wakizaplus3", false]]		
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
 		},{
 			"question": "Volontier.",
 			"vers": "14_Wakiza_Chapitre2_Matin_3",
-			"condition": [["Affinite_Wakiza_plus1", false]],
-			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakizaplus2", false],["Affinite_Wakizaplus3", false]]		
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Volontier.",
+			"vers": "14_Wakiza_Chapitre2_Matin_3",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Volontier.",
+			"vers": "14_Wakiza_Chapitre2_Matin_3",
+			"condition": [["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Volontier.",
+			"vers": "14_Wakiza_Chapitre2_Matin_3",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Volontier.",
+			"vers": "14_Wakiza_Chapitre2_Matin_3",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]]		
+		},{
+			"question": "Volontier.",
+			"vers": "14_Wakiza_Chapitre2_Matin_3",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]]		
 		},{
 			"question": "Non merci, je vais y aller. À tout à l'heure, peut-être.",
 			"vers": "2_0_1_8",
@@ -6488,17 +7406,17 @@
 		}]
     }, {
 		"identifiant": "14_Wakiza_Chapitre2_Matin_1",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/PetitDej_Terrasse_Matin.jpg",
 		"texte": "<p>Wakiza, un raton-laveur, est assis à table à côté de vous. Il mange des pancakes au sirop d’érable.<p></p>",
 		"options": [{
 			"question": "‘‘J’aimerais bien manger la même chose que toi.’’ <i>Tu te sers une part, tu baves littéralement. Vous parlez ensemble.</i>",
 			"vers": "14_Wakiza_Chapitre2_Matin_4",
 			"condition": [],
-			"consequence": [[]]		
+			"consequence": [["AvoirVu_Wakiza_Chapitre2_Matin", true]]		
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre2_Matin_2",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/PetitDej_Terrasse_Matin.jpg",
 		"texte": "<p>Wakiza s’assied à table et mange des pancakes au sirop d’érable.<p></p>",
 		"options": [{
 			"question": "‘‘J’aimerais bien manger la même chose que toi.’’ <i>Tu te sers une part, tu baves littéralement. Vous parlez ensemble.</i>",
@@ -6509,11 +7427,11 @@
 			"question": "<i>Parler avec d’autres Lubiens à la terrasse.</i>",
 			"vers": "2_0_1_9",
 			"condition": [],
-			"consequence": [["AvoirVu_Wakiza_Chapitre0_Soir", true]]		
+			"consequence": [["AvoirVu_Wakiza_Chapitre2_Matin", true]]		
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre2_Matin_3",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/PetitDej_Terrasse_Matin.jpg",
 		"texte": "<p>Wakiza reprend sa veste, vos mains se touchent. Le regard plein d’étoiles, vous allez prendre un petit déjeuner à la terrasse. Le raton s’assoit près de toi et te propose des pancakes dans son assiette. Il te sourit un peu bêtement.<p></p>",
 		"options": [{
 			"question": "<i>Avec ta fourchette, tu prends une bouchée directement dans son assiette. Du sirop coule sur tes doigts. Tu le lèches.</i>",
@@ -6528,7 +7446,7 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre2_Matin_4",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/PetitDej_Terrasse_Matin.jpg",
 		"texte": "<p><i>Wakiza te parle de son amour pour l’astronomie Il te confie que cette nuit, il sera à l’observatoire.</i><p></p>",
 		"options": [{
 			"question": "<i>Tu aides Wakiza à nettoyer. Tu finis de manger tout en discutant de ta vie avec le raton-laveur.</i>",
@@ -6543,7 +7461,7 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre2_Matin_5",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/PetitDej_Terrasse_Matin.jpg",
 		"texte": "<p><i>Wakiza te regarde les yeux ronds. Les pancakes sont sur le point de tomber de son assiette. Du sirop coule sur la nappe.</i><p></p>",
 		"options": [{
 			"question": "<i>Tu aides Wakiza à nettoyer. Tu finis de manger tout en discutant de ta vie avec le raton-laveur.</i>",
@@ -6553,27 +7471,42 @@
 		},{
 			"question": "Tu regardes Wakiza avec un sourire complice. Tu relèves son assiette pour éviter un plus gros dégât.",
 			"vers": "14_Wakiza_Chapitre2_Matin_8",
-			"condition": [["Affinite_Wakiza_plus1", false]],
-			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakizaplus2", false],["Affinite_Wakizaplus3", false]]		
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
 		},{
 			"question": "Tu regardes Wakiza avec un sourire complice. Tu relèves son assiette pour éviter un plus gros dégât.",
 			"vers": "14_Wakiza_Chapitre2_Matin_8",
-			"condition": [["Affinite_Wakiza_plus1", true]],
-			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakizaplus2", true],["Affinite_Wakizaplus3", false]]		
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
 		},{
 			"question": "Tu regardes Wakiza avec un sourire complice. Tu relèves son assiette pour éviter un plus gros dégât.",
 			"vers": "14_Wakiza_Chapitre2_Matin_8",
-			"condition": [["Affinite_Wakiza_plus2", true]],
-			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakizaplus2", false],["Affinite_Wakizaplus3", true]]		
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", true],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
 		},{
 			"question": "Tu regardes Wakiza avec un sourire complice. Tu relèves son assiette pour éviter un plus gros dégât.",
 			"vers": "14_Wakiza_Chapitre2_Matin_8",
-			"condition": [["Affinite_Wakiza_plus3", true]],
-			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakizaplus2", false],["Affinite_Wakizaplus3", true]]		
+			"condition": [["Affinite_Wakiza_moins3", true],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", true],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu regardes Wakiza avec un sourire complice. Tu relèves son assiette pour éviter un plus gros dégât.",
+			"vers": "14_Wakiza_Chapitre2_Matin_8",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", true],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]]		
+		},{
+			"question": "Tu regardes Wakiza avec un sourire complice. Tu relèves son assiette pour éviter un plus gros dégât.",
+			"vers": "14_Wakiza_Chapitre2_Matin_8",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", true],["Affinite_Wakiza_plus3", false]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]]		
+		},{
+			"question": "Tu regardes Wakiza avec un sourire complice. Tu relèves son assiette pour éviter un plus gros dégât.",
+			"vers": "14_Wakiza_Chapitre2_Matin_8",
+			"condition": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]],
+			"consequence": [["Affinite_Wakiza_moins3", false],["Affinite_Wakiza_moins2", false],["Affinite_Wakiza_moins1", false],["Affinite_Wakiza_plus1", false],["Affinite_Wakiza_plus2", false],["Affinite_Wakiza_plus3", true]]		
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre2_Matin_6",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/PetitDej_Terrasse_Matin.jpg",
 		"texte": "<p><i>Wakiza semble très déçu.</i><p></p>",
 		"options": [{
 			"question": "<i>Tu aides Wakiza à nettoyer. Tu finis de manger tout en discutant de ta vie avec le raton-laveur.</i>",
@@ -6588,7 +7521,7 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre2_Matin_8",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/PetitDej_Terrasse_Matin.jpg",
 		"texte": "<p><i>Vous finissez de manger ensemble. Wakiza bafouille souvent. Avant que tu ailles explorer la villa, il te laisse un baisé timide sur la main. Il avale sa salive et réussit à te dire:</i>‘’Je serais subjugué de partager une danse en votre compagnie.’’<p></p>",
 		"options": [{
 			"question": "<i>Tu lui caresses la joue et promet de le revoir au bar durant l'apéro.</i>",
@@ -6598,7 +7531,7 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre4_Bar_0",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
 		"texte": "<p><i>Vous remarquez à quel point il est bien habillé et sa fourrure somptueuse...</i><p></p>",
 		"options": [{
 			"question": "<i>Comme promis, tu vas le rejoindre.</i>",
@@ -6633,7 +7566,7 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre4_Bar_0_1",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
 		"texte": "<p><i>Le raton vous dit s'appeler Wakiza. Son haleine vous dégoûte, vous mettez ça sur le compte de l'alcool.</i><p></p>",
 		"options": [{
 			"question": "<i>Difficile de nouer davantage le contact, vu son état. Peut-être aurait-il fallu le rencontrer plus tôt ? Retourner squatter le buffet.</i>",
@@ -6642,8 +7575,78 @@
 			"consequence": [[]]		
 		}]
     },{
+		"identifiant": "14_Wakiza_Chapitre4_Bar_0_2",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
+		"texte": "<p><i>Wakiza est mal habillé. Tu es repoussé par son odeur d’alcool.</i><p></p>",
+		"options": [{
+			"question": "<i>Reculer doucement.</i>",
+			"vers": "4_0_5_2_1",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "14_Wakiza_Chapitre4_Bar_0_3",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
+		"texte": "<p><i>Wakiza est mal habillé. Il vous pète la gueule.</i><p></p>",
+		"options": [{
+			"question": "<i>Poursuivre.</i>",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_3_1",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "14_Wakiza_Chapitre4_Bar_0_3_1",
+		"image": "backgrounds/_Mort_1_Classique.jpg",
+		"texte": "<p><i>Vous êtes mort.e. Oupsi.</i><p></p>",
+		"options": [{
+			"question": "<i>Poursuivre.</i>",
+			"vers": "7_Prunelle_Mort_Reboot_Cimetiere_1",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "14_Wakiza_Chapitre4_Bar_0_4",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
+		"texte": "<p><i>Wakiza a déjà bue plusieurs verres au moment où il t'aperçoit. Il te fonce dessus pour te plaquer contre un mur.</i> ‘’Où as-tu mis ma longue vue?’’<p></p>",
+		"options": [{
+			"question": "<i>Ne rien dire.</i>",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4_1",
+			"condition": [[]],
+			"consequence": [[]]		
+		},{
+			"question": "<i>Lui rendre la longue vue,</i>",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4_1",
+			"condition": [["Objet_LongueVue", true],["Objet_LongueVue_Cachee", false]],
+			"consequence": [["Objet_LongueVue", false]]		
+		},{
+			"question": "<i>Lui dire qu’elle est cachée derrière un meuble à l’observatoire.</i>",
+			"vers": "14_Wakiza_Chapitre4_Bar_0_4_2",
+			"condition": [["Objet_LongueVue_Cachee", true]],
+			"consequence": [["Objet_LongueVue_Cachee", false]]		
+		}]
+    },{
+		"identifiant": "14_Wakiza_Chapitre4_Bar_0_4_1",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
+		"texte": "<p><i>Il te donne un coup de poing dans le ventre. Il part avec rage en te maudissant.<p></p>",
+		"options": [{
+			"question": "Revenir vers la salle de réception en vous tenant le ventre.",
+			"vers": "4_0_5_2",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "14_Wakiza_Chapitre4_Bar_0_4_2",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
+		"texte": "<p><i>Wakiza te relâche et te grogne dessus. Il part à l’observatoire retrouver son bien.<p></p>",
+		"options": [{
+			"question": "Revenir vers la salle de réception.",
+			"vers": "4_0_5_2",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    },{
 		"identifiant": "14_Wakiza_Chapitre4_Bar_1",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
 		"texte": "<p><i>Wakiza est très heureux de te retrouver. Il te prend délicatement par la main pour t’inviter à danser. Tu profites des festivités en sa compagnie.</i><p></p>",
 		"options": [{
 			"question": "<i>Le remercier pour la danse. Aller danser avec d’autres lubiens.</i>",
@@ -6654,11 +7657,11 @@
 			"question": "<i>L'embrasser.</i>",
 			"vers": "14_Wakiza_Chapitre4_Bar_3",
 			"condition": [[]],
-			"consequence": [[]]		
+			"consequence": [["Avoir_Date_Wakiza", true]]		
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre4_Bar_2",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
 		"texte": "<p><i>Wakiza a déjà bue plusieurs verres au moment où il t'aperçoit. Il te fonce dessus pour te plaquer contre un mur.</i> ‘’Où as-tu mis ma longue vue?’’<p></p>",
 		"options": [{
 			"question": "<i>Ne rien dire.</i>",
@@ -6678,7 +7681,7 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre4_Bar_3",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
 		"texte": "<p><i>Main dans la main, vous attendez le discours de Lou Lubie.</i><p></p>",
 		"options": [{
 			"question": "Poursuivre.",
@@ -6688,7 +7691,7 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre4_Bar_4",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
 		"texte": "<p><i>Wakiza te donne un coup de poing dans le ventre. Il part avec rage en te maudissant.</i><p></p>",
 		"options": [{
 			"question": "Poursuivre en vous tenant le ventre.",
@@ -6698,7 +7701,7 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre4_Bar_5",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
 		"texte": "<p><i>Wakiza te relâche et te grogne dessus. Il part à l’observatoire retrouver son bien.</i><p></p>",
 		"options": [{
 			"question": "Poursuivre.",
@@ -6708,8 +7711,18 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre4_Bar_6",
-		"image": "terrasse.jpg",
+		"image": "backgrounds/Observatoire_Nuit.jpg",
 		"texte": "<p><i>Vous passez la fin de soirée dans l’observatoire avec Wakiza. Tout le monde est parti, il n'y a plus que vous 2, en amoureux.</i><p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "14_Wakiza_Chapitre4_Bar_6_1",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "14_Wakiza_Chapitre4_Bar_6_1",
+		"image": "backgrounds/Observatoire_Nuit.jpg",
+		"texte": "<p><i>Vous regardez les étoiles couchées dans l’herbe comme le soir de votre première rencontre. Lentement, le ciel se colore de multiples couleurs. Les étoiles sont merveilleuses. Wakiza t'enlace la taille.</i> ‘’Merci pour cette merveilleuse aventure, j’en avais vraiment besoin. J’espère qu’on pourra de nouveau se voir…’’ <i>Il t'embrasse passionnément. Quelle belle manière de terminer cette soirée d’anniversaire !</i><p></p>",
 		"options": [{
 			"question": "Poursuivre.",
 			"vers": "Fin_Classique",
@@ -6733,10 +7746,506 @@
 
 
 
+	{
+		"identifiant": "17_Cray_Chapitre3_Hall_1",
+		"image": "backgrounds/HallEscaliers_Jour.jpg",
+		"texte": "<p>Psst, moi c'est Cray. Tu es nouvelleau ? Si ça peut t'aider à t'integrer, je peux te donner pleins d'infos sur les lubien.nes dans cette villa. Ça t'intéresse ?<p></p>",
+		"options": [{
+			"question": "Oui, fais péter.",
+			"vers": "17_Cray_Chapitre3_Hall_1_2",
+			"condition": [],
+			"consequence": [["Voir_Vu_Cray_Chapitre3_Hall", true]]		
+		},{
+			"question": "Non merci, sans façon.",
+			"vers": "3_0_1_13",
+			"condition": [],
+			"consequence": [["Voir_Vu_Cray_Chapitre3_Hall", true]]		
+		}]
+    },{
+		"identifiant": "17_Cray_Chapitre3_Hall_1_1",
+		"image": "backgrounds/HallEscaliers_Jour.jpg",
+		"texte": "<p>Allez, dis moi tout, qu'est-ce que tu veux savoir ce coup-ci ? J'ai des infos sur Krom et sur Klariss.<p></p>",
+		"options": [{
+			"question": "Krom.",
+			"vers": "17_Cray_Chapitre3_Hall_1_3_Krom",
+			"condition": [],
+			"consequence": [[]]		
+		},{
+			"question": "Klariss.",
+			"vers": "17_Cray_Chapitre3_Hall_1_3_Klariss",
+			"condition": [],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "17_Cray_Chapitre3_Hall_1_2",
+		"image": "backgrounds/HallEscaliers_Jour.jpg",
+		"texte": "<p>J'ai des infos sur Krom et sur Klariss. Qui t'intéresse ?<p></p>",
+		"options": [{
+			"question": "Krom.",
+			"vers": "17_Cray_Chapitre3_Hall_1_3_Krom",
+			"condition": [],
+			"consequence": [[]]		
+		},{
+			"question": "Klariss.",
+			"vers": "17_Cray_Chapitre3_Hall_1_3_Klariss",
+			"condition": [],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "17_Cray_Chapitre3_Hall_1_3_Krom",
+		"image": "backgrounds/HallEscaliers_Jour.jpg",
+		"texte": "<p>Krom, le cuisinier de la villa, adore le sanglier. En revanche le poisson le répugne.<p></p>",
+		"options": [{
+			"question": "Ok, merci.",
+			"vers": "17_Cray_Chapitre3_Hall_1_4",
+			"condition": [],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "17_Cray_Chapitre3_Hall_1_3_Klariss",
+		"image": "backgrounds/HallEscaliers_Jour.jpg",
+		"texte": "<p>Dans le salon de gaming, as-tu remarqué que le niveau du distributeur de popcorn salé était plus bas que celui pour le popcorn sucré ? Tu devrais peut-être te demander qui tape dedans comme ça, héhé.''<p></p>",
+		"options": [{
+			"question": "Ok, merci.",
+			"vers": "17_Cray_Chapitre3_Hall_1_4",
+			"condition": [],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "17_Cray_Chapitre3_Hall_1_4",
+		"image": "backgrounds/HallEscaliers_Jour.jpg",
+		"texte": "<p>Besoin d'autres infos ?<p></p>",
+		"options": [{
+			"question": "Oui",
+			"vers": "17_Cray_Chapitre3_Hall_1_2",
+			"condition": [],
+			"consequence": [[]]		
+		},{
+			"question": "Non, c'est bon, j'ai ce qu'il me faut.",
+			"vers": "3_0_1_13",
+			"condition": [],
+			"consequence": [[]]		
+		}]
+    },	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	{
+		"identifiant": "19_Aguk_Chapitre1_19_1_1",
+		"image": "1_19_1_1.jpg",
+		"texte": "<p>Vous commencez à vous endormir profondément; quand un lubien vous réveille dans votre sommeil. Il s'agit de Aguk le misérable, il parle fort dans son sommeil et semble agité. Il dit: “ Ils vont m'démasquer que j'suis pas un vrai lubien et que j’ai pris la place de Kuga et j’aurais plus le buffet gratos… Oh un arbre à merguez!...” <p></p>",
+		"options": [{
+			"question": "Le laisser parler et se rendormir ",
+			"vers": "2_0_3_4",
+			"condition": [],
+			"consequence": []
+		}, {
+			"question": "Donner un coup de pied à Aguk pour le faire taire.",
+			"vers": "1_0_3_2",
+			"condition": [],
+			"consequence": [["Aguk_affinite_moins1", true],["Avoir_Vu_Aguk_Chapitre1_Dortoir", true]]
+		},{
+			"question": "Le réveiller et le rassurer; il a sûrement fait un mauvais rêve. ",
+			"vers": "19_Aguk_Chapitre1_19_1_2",
+			"condition": [],
+			"consequence": [["Aguk_affinite_plus1", true],["Avoir_Vu_Aguk_Chapitre1_Dortoir", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre1_19_1_2",
+		"image": "1_19_1_2.jpg",
+		"texte": "<p>Aguk vous remercie: Ah c'est sympa de m'rassurer; tiens j' te donne ce morceau de fromage; j'aime pas partager et encore moins donner, mais je peux faire une exception.<p></p>",
+		"options": [{
+			"question": "Vous refusez et vous  rendormez",
+			"vers": "2_0_3_4",
+			"condition": [],
+			"consequence": [["Aguk_affinite_moins1", true]]
+		}, {
+			"question": "Vous acceptez et vous rendormez. ",
+			"vers": "2_0_3_4",
+			"condition": [],
+			"consequence": [["objet_fromage", true],["Aguk_affinite_plus2", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre2_19_1_3",
+		"image": "backgrounds/SalleDeGaming_Jour.jpg",
+		"texte": "<p>Vous entrez dans la salle de gaming qui fait aussi office de salle de cinéma et apercevez Aguk le misérable qui regarde un film. <p></p>",
+		"options": [{
+			"question": "Retourner explorer la salle de gaming.",
+			"vers": "4_0_10_1_2",
+			"condition": [],
+			"consequence": [[]]
+		}, {
+			"question": "Regarder avec lui",
+			"vers": "19_Aguk_Chapitre2_19_1_4",
+			"condition": [["Aguk_affinite_moins1", true]],
+			"consequence": [["Avoir_Vu_Aguk_Chapitre2_SalleGaming", true]]
+		},{
+			"question": "Regarder avec lui",
+			"vers": "19_Aguk_Chapitre2_19_2_1",
+			"condition": [["Aguk_affinite_moins1", false]],
+			"consequence": [["Avoir_Vu_Aguk_Chapitre2_SalleGaming", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre2_19_1_4",
+		"image": "backgrounds/SalleDeGaming_Jour.jpg",
+		"texte": "<p>Aguk vous dit :' Eh j'te reconnais toi ; c'toi qui m'as donné un coup de pied cette nuit. J'suis en train de regarder 'Bienvenue chez les ch'tis'. Si tu veux t'faire pardonner regarde avec moi.'<p></p>",
+		"options": [{
+			"question": "Vous fuyez et partez faire autre chose",
+			"vers": "4_0_10_1_2",
+			"condition": [],
+			"consequence": [["Aguk_affinite_moins2", true]]
+		}, {
+			"question": "Accepter",
+			"vers": "19_Aguk_Chapitre2_19_1_5",
+			"condition": [],
+			"consequence": [["Aguk_affinite_moins1", false]]
+		},{
+			"question": "Vous acceptez de regarder avec lui, mais lui proposez un film que vous aimez. ",
+			"vers": "19_Aguk_Chapitre2_19_2_2",
+			"condition": [],
+			"consequence": [["Aguk_affinite_moins1", false]]
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre2_19_1_5",
+		"image": "backgrounds/SalleDeGaming_Jour.jpg",
+		"texte": "<p>Vous regardez 'Bienvenue chez les ch'tis' avec Aguk<p></p>",
+		"options": [{
+			"question": "Partir à la fin du film",
+			"vers": "19_Aguk_Chapitre2_19_1_6",
+			"condition": [["objet_chapeau_grenouille", true]],
+			"consequence": []
+		}, {
+			"question": "Partir à la fin du film",
+			"vers": "4_0_10_1_2",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre2_19_1_6",
+		"image": "backgrounds/SalleDeGaming_Jour.jpg",
+		"texte": "<p>Aguk vous dit qu'il aime bien votre chapeau grenouille.<p></p>",
+		"options": [{
+			"question": "Le remercier et partir",
+			"vers": "4_0_10_1_2",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre3_19_1_7",
+		"image": "backgrounds/Rooftop_Jour.jpg",
+		"texte": "<p>Seul avec son crocodile de compagnie, Aguk regarde le ciel mélancoliquement.<p></p>",
+		"options": [{
+			"question": "Aller parler à Akug le misérable",
+			"vers": "19_Aguk_Chapitre3_19_1_8",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Aguk_Chapitre3_Rooftop", true]]
+		}, {
+			"question": "Reculer silencieusement. ",
+			"vers": "4_0_10_1_2",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre3_19_1_8",
+		"image": "backgrounds/Rooftop_Jour.jpg",
+		"texte": "<p>Aguk le misérable vous dit : ‘ j'aime bien parler tout seul et dire tout ce que je pense sans filtre. J'me fou de c'que pensent les gens ; je vis au jour le jour sans penser à demain. Demain j’errerai ailleurs.’ <p></p>",
+		"options": [{
+			"question": "Vous demandez à Aguk si c'est un ange. ",
+			"vers": "19_Aguk_Chapitre3_19_1_9",
+			"condition": [],
+			"consequence": []
+		}, {
+			"question": "Vous parlez philosophie à Aguk ",
+			"vers": "19_Aguk_Chapitre3_19_3_1",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre3_19_1_9",
+		"image": "backgrounds/Rooftop_Jour.jpg",
+		"texte": "<p>Aguk le misérable vous répond : ‘ Je ne sais pas ce que je suis et je m'en fous. Mes ailes ne m'ont jamais servies ; je ne sais pas voler et j'ai peur du vide.’ <p></p>",
+		"options": [{
+			"question": "Vous poussez Aguk dans le vide pour voir s'il vole. => ",
+			"vers": "19_Aguk_Chapitre3_19_3_1",
+			"condition": [],
+			"consequence": []
+		}, {
+			"question": "Vous embrassez Aguk sur la joue pour le réconforter",
+			"vers": "19_Aguk_Chapitre3_19_1_10",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre3_19_1_10",
+		"image": "backgrounds/Rooftop_Jour.jpg",
+		"texte": "<p>Aguk le misérable vous remercie et vous dit: ‘ Tu es aussi belle.eau qu'un chamallow.’ <p></p>",
+		"options": [{
+			"question": "Vous dites à Aguk en rigolant ‘ merci bébou, toi tu es aussi extra qu'une tagada.’",
+			"vers": "19_Aguk_Chapitre3_19_1_11",
+			"condition": [],
+			"consequence": []
+		}, {
+			"question": "Vous giflez Aguk en lui disant que c'est nul comme compliment. ",
+			"vers": "19_Aguk_Chapitre3_19_4_2",
+			"condition": [],
+			"consequence": []
+		},{
+			"question": "Vous rigolez un peu en comprenant que ça partait d'un bon sentiment; puis saluez Aguk et continuez votre exploration des lieux",
+			"vers": "4_0_10_1_2",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre3_19_1_11",
+		"image": "backgrounds/Rooftop_Jour.jpg",
+		"texte": "<p>Vous voyez Aguk sourire pour la première fois et restez avec lui à regarder le ciel. <p></p>",
+		"options": [{
+			"question": "Profiter du moment.",
+			"vers": "5_0_7_4_2",
+			"condition": [],
+			"consequence": [["ciel_etoile", true],["Amitie_Aguk", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre4_19_1_12",
+		"image": "backgrounds/Dancefloor_Soir.jpg",
+		"texte": "<p>Vous apercevez Aguk le misérable tout seul dans un coin. L'inviter à danser.<p></p>",
+		"options": [{
+			"question": "Vous l'invitez à danser.",
+			"vers": "19_Aguk_Chapitre4_19_1_13",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre4_19_1_13",
+		"image": "backgrounds/Dancefloor_Soir.jpg",
+		"texte": "<p>Aguk vous dit: ‘ j'aime pas danser; c'trop fatiguant et ça m'essouffle. Mais pour toi j'veux bien faire une exception. Mais après on va gratter la bouffe du buffet.’ <p></p>",
+		"options": [{
+			"question": "<p>Vous entraînez Aguk sur la piste de danse et dansez anarchiquement et romantiquement tous les deux.</p>La chanson se termine, vous vous séparez et allez chercher un.e autre partenaire.</p>",
+			"vers": "6_1_9_1",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Aguk_Chapitre4_Dancefloor", true],["Avoir_Danse_avec_Aguk", true],["Aguk_affinite_plus2", true]]
+		}]
+    },{
+		"identifiant": "19_Aguk_Chapitre4_19_1_13_1",
+		"image": "backgrounds/Dancefloor_Soir.jpg",
+		"texte": "<p>Aguk vous dit: ‘ j'aime pas danser; c'trop fatiguant et ça m'essouffle. Je préfère gratter la bouffe du buffet.’ <p></p>",
+		"options": [{
+			"question": "Chercher quelqu'une d'autre.",
+			"vers": "6_1_9_1",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Aguk_Chapitre4_Dancefloor", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre5_19_1_14",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
+		"texte": "<p>Après le magnifique discours de Lou vous apercevez Aguk le misérable en train de ‘gratter la graille du buffet’. <p></p>",
+		"options": [{
+			"question": "Vous allez le voir",
+			"vers": "19_Aguk_Chapitre5_19_1_15",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre5_19_1_15",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
+		"texte": "<p>Aguk vous observe approcher<p></p>",
+		"options": [{
+			"question": "Vous dites à Aguk que vous l'appréciez beaucoup et que vous avez passé une très belle journée",
+			"vers": "19_Aguk_Chapitre5_19_1_16",
+			"condition": [["ciel_etoile", true],["Aguk_affinite_plus2", true],["Avoir_Vu_Aguk_Chapitre6_FinDeSoiree", true]],
+			"consequence": []
+		}, {
+			"question": "Vous dites à Aguk que vous avez aimé vos moments ensemble et que vous restez amis. Le saluer et retourner aux préparatifs de départ.",
+			"vers": "6_0_1_23_2",
+			"condition": [],
+			"consequence": [["Avoir_Vu_Aguk_Chapitre6_FinDeSoiree", true]]
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre5_19_1_16",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
+		"texte": "<p>Aguk vous demande s'il peut vous embrasser<p></p>",
+		"options": [{
+			"question": "Vous lui demandez s'il s'est bien brossé les dents avant",
+			"vers": "19_Aguk_Chapitre5_19_1_17",
+			"condition": [],
+			"consequence": []
+		}, {
+			"question": "Vous lui dites oui",
+			"vers": "19_Aguk_Chapitre5_19_1_18",
+			"condition": [],
+			"consequence": []
+		},{
+			"question": "Lui dire non, le saluer et retourner aux préparatifs de départ.",
+			"vers": "6_0_1_23_2",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre5_19_1_17",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
+		"texte": "<p>Aguk vous regarde dubitatif. Il a les dents pleine de chips du buffet (et de reste alimentaires non identifiés). <p></p>",
+		"options": [{
+			"question": "Vous mangez une chips avant et vous le laissez vous embrasser avec vos haleines pleines de chips au bacon fumé. ",
+			"vers": "19_Aguk_Chapitre5_19_1_18",
+			"condition": [],
+			"consequence": []
+		}, {
+			"question": "Fuir et retourner aux préparatifs de départ.",
+			"vers": "6_0_1_23_2",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre5_19_1_18",
+		"image": "backgrounds/Terrasse_Repas_Nuit.jpg",
+		"texte": "<p>...<p></p>",
+		"options": [{
+			"question": "Aguk vous embrasse et vous passez la fin de la soirée tous les deux à griller romantiquement des chamallows premier prix à la belle étoile. Vous partagez et appréciez le moment présent et on verra bien demain. Fin.",
+			"vers": "Fin_Classique",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre2_19_2_1",
+		"image": "backgrounds/SalleDeGaming_Jour.jpg",
+		"texte": "<p>Aguk vous dit : 'Je suis en train de regarder 'Bienvenue chez les ch'tis'. Je l'ai regardé 6 fois ; quand j'aime bien un truc je le regarde en boucle. Toi aussi tu fais ça ?'<p></p>",
+		"options": [{
+			"question": "Lui proposer de regarder ensemble un film que vous appréciez",
+			"vers": "19_Aguk_Chapitre2_19_2_2",
+			"condition": [],
+			"consequence": []
+		}, {
+			"question": "Fuir",
+			"vers": "4_0_10_1_2",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre2_19_2_2",
+		"image": "backgrounds/SalleDeGaming_Jour.jpg",
+		"texte": "<p>Aguk accepte et vous regardez tous les deux le film en passant un bon moment assit l'un à côté de l'autre. À la fin Aguk vous dit: 'C'tait cool, t'as d'bons goûts; j'vais le re-regarder'<p></p>",
+		"options": [{
+			"question": "Partir à la fin du film",
+			"vers": "19_Aguk_Chapitre2_19_1_6",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre3_19_3_1",
+		"image": "backgrounds/Rooftop_Jour.jpg",
+		"texte": "<p>Game over; vous avez tué Aguk.<p></p>",
+		"options": [{
+			"question": "Partir et faire comme si de rien n'était.",
+			"vers": "4_0_10_1_2",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre3_19_4_1",
+		"image": "backgrounds/Rooftop_Jour.jpg",
+		"texte": "<p>Akug vous arrête et vous dit : ’ Tu me saoul avec tes trucs que j'pige rien de c'que tu baves.’ <p></p>",
+		"options": [{
+			"question": "Saluer Aguk et retourner explorer les lieux",
+			"vers": "4_0_10_1_2",
+			"condition": [],
+			"consequence": []
+		}, {
+			"question": "Gifler Aguk pour son impolitesse",
+			"vers": "19_Aguk_Chapitre3_19_4_2",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+	
+	{
+		"identifiant": "19_Aguk_Chapitre3_19_4_2",
+		"image": "backgrounds/_Mort_1_Classique.jpg",
+		"texte": "<p>...<p></p>",
+		"options": [{
+			"question": "Game over, vous vous faites manger par le crocodile de Aguk. ",
+			"vers": "7_Prunelle_Mort_Reboot_Cimetiere_1",
+			"condition": [],
+			"consequence": []
+		}]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_1",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p><i>Le gros demi-orc est en train de préparer une soupe, il vous semble un peu bourru et  maladroit. Malgré tout une bonne odeur se répand dans la cuisine.</i><p></p>",
 		"options": [{
 			"question": "Vous restez là à l’observer.",
@@ -6756,7 +8265,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_1_2",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p><i>Le cuistot se présente, il s’appelle Krom. Il vous explique qu’il était sur la préparation d'une soupe, il vous semble un peu bourru et maladroit. Malgré tout, une bonne odeur se répand dans l’air.</i><p></p>",
 		"options": [{
 			"question": "Vous restez là à l’observer.",
@@ -6776,7 +8285,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_2",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p><i>Soudain vous entendez quelqu’un annoncer le début du repas.</i><p></p>",
 		"options": [{
 			"question": "Vous vous rendez au repas à la salle de réception.",
@@ -6786,7 +8295,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_3",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p><i>Le cuisinier vous sourit.</i></p>Salut, je m’appelle Krom. Ca te dirait de m’aider, je sens que je vais être un peu dépassé. J’ai pas l’habitude de servir autant de convives…<p></p>",
 		"options": [{
 			"question": "Vous acceptez d’aider Krom.",
@@ -6871,7 +8380,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_4",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p><i>Le cuisinier s'énerve face à vos remarques et vous chasse.</i><p></p>",
 		"options": [{
 			"question": "Vous vous rendez au repas à la salle de réception.",
@@ -6881,7 +8390,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_5_0",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Très bien. Sors moi les carottes, le poireau, les navets et le fenouil.<p></p>",
 		"options": [{
 			"question": "D’accord.",
@@ -6891,7 +8400,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_5_1",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. (Krom remarque que tu as une marmite avec toi). Oh tu as trouvé une marmite, tu vas t’occuper de la soupe alors. Sors moi les carottes, le poireau, les navets et le fenouil.<p></p>",
 		"options": [{
 			"question": "D’accord.",
@@ -6901,7 +8410,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_5_1_2",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p><i>Dans la réserve, en plus des ingrédients listés par Krom, vous trouvez aussi des citrons.</i><p></p>",
 		"options": [{
 			"question": "Vous laissez les agrumes.",
@@ -6916,7 +8425,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_5_1",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se.</p><i>Krom remarque que tu as une marmite avec toi.</i></p>Oh tu as trouvé une marmite, tu vas t’occuper de la soupe alors. Sors moi les carottes, le poireau, les navets et le fenouil.<p></p>",
 		"options": [{
 			"question": "D’accord.",
@@ -6926,7 +8435,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_5_1_2",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p><i>Dans la réserve, en plus des ingrédients listés par Krom, vous trouvez aussi des citrons.</i><p></p>",
 		"options": [{
 			"question": "Vous laissez les agrumes.",
@@ -6941,7 +8450,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_5_1_3",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p><i>Krom vous regarde, lève un sourcil, et vous dit de vous bouger car la soupe ne se préparera pas toute seule.</i><p></p>",
 		"options": [{
 			"question": "Vous saisissez des pommes de terre qui trainent sur le comptoir et vous les ajoutez au mélange.",
@@ -6956,7 +8465,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_5_1_4",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p><i>Krom goûte la soupe.</i><p></p>",
 		"options": [{
 			"question": "Elle est bonne, chef ?",
@@ -6981,7 +8490,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_5_1_5_1",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Pas mal, tu as bien suivi la recette.<p></p>",
 		"options": [{
 			"question": "Vous vous proposez pour réaliser le service des plats.",
@@ -7006,7 +8515,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_5_1_5_2",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Il y a un goût acide bizarre. Tu as pris une liberté avec la recette que je n’approuve pas.<p></p>",
 		"options": [{
 			"question": "Vous vous proposez pour réaliser le service des plats.",
@@ -7031,7 +8540,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_5_1_5_3",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>MMmh, tu as ajouté des patates en plus ? Quelle bonne idée !<p></p>",
 		"options": [{
 			"question": "Vous vous proposez pour réaliser le service des plats.",
@@ -7056,7 +8565,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_5_1_5_4",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p><i>Il y a un goût acide bizarre. Tu as pris une liberté avec la recette que je n’approuve pas. Par contre, les patates, c’est pas une mauvaise idée.</i><p></p>",
 		"options": [{
 			"question": "Vous vous proposez pour réaliser le service des plats.",
@@ -7066,7 +8575,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_6_0",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Parfait, on va faire du sanglier à la bière alors. va chercher la bière, l’huile d’olive, la moutarde, le cumin, le romarin, 4 tomates, 10 oignons, 10 échalotes et 10 feuilles de laurier et une grande serviette en tissu dans la réserve pendant que je m’occupe de lancer la cuisson.<p></p>",
 		"options": [{
 			"question": "D’accord.",
@@ -7076,7 +8585,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_6_1",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, tu as retrouvé ma broche ! Parfait, on va faire du sanglier à la bière alors. va chercher la bière, l’huile d’olive, la moutarde, le cumin, le romarin, 4 tomates, 10 oignons, 10 échalotes et 10 feuilles de laurier et une grande serviette en tissu dans la réserve pendant que je m’occupe de lancer la cuisson.<p></p>",
 		"options": [{
 			"question": "D’accord.",
@@ -7086,7 +8595,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_6_1",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, tu as retrouvé ma broche ! Parfait, on va faire du sanglier à la bière alors. va chercher la bière, l’huile d’olive, la moutarde, le cumin, le romarin, 4 tomates, 10 oignons, 10 échalotes et 10 feuilles de laurier et une grande serviette en tissu dans la réserve pendant que je m’occupe de lancer la cuisson.<p></p>",
 		"options": [{
 			"question": "D’accord.",
@@ -7111,7 +8620,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_7",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, je vois que tu as retrouvé le livre de recettes que j’avais perdu? Génial ! Je m’apprêtais à me contenter des mets que je connais sur le bout des doigts, mais avec ça, on va pouvoir être bien plus créatifs ! Regarde à l’intérieur et choisis la recette que tu souhaites préparer.<p></p>",
 		"options": [{
 			"question": "Une soupe.",
@@ -7136,7 +8645,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_8",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Tiens, tu vas t’occuper de la préparation des petits-fours pendant que je m’occupe des plats principaux.<p></p>",
 		"options": [{
 			"question": "D’accord.",
@@ -7146,7 +8655,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_8_2",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>La préparation des petits fours vous prend du temps. Plus tard, vous entendez la voix d’un lubien qui appelle les convives à table.<p></p>",
 		"options": [{
 			"question": "Vous vous proposez pour réaliser le service des plats.",
@@ -7156,7 +8665,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_9_1",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, tu as retrouvé ma marmite ET ma broche ! Chouette ! Je te laisse le choix alors. Tu préfères préparer une soupe ou un sanglier à la bière ?<p></p>",
 		"options": [{
 			"question": "Une soupe.",
@@ -7171,7 +8680,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_9_2",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, tu as retrouvé ma marmite ET mon couteau de cuisine ! Chouette ! Je te laisse le choix alors. Tu préfères préparer un sanglier à la bière ou un poisson au citron?<p></p>",
 		"options": [{
 			"question": "Un sanglier à la bière.",
@@ -7186,7 +8695,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_9_3",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, tu as retrouvé ma marmite ! Tu as aussi apporté une bouteille de vin ! Chouette ! Je te laisse le choix alors. Tu préfères préparer une soupe, ou un coq au vin ?<p></p>",
 		"options": [{
 			"question": "Une soupe.",
@@ -7201,7 +8710,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_9_4",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, tu as retrouvé ma broche ET mon couteau de cuisine ! Chouette ! Je te laisse le choix alors. Tu préfères préparer un sanglier à la bière ou un poisson au citron ?<p></p>",
 		"options": [{
 			"question": "Un sanglier à la bière.",
@@ -7216,7 +8725,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_9_5",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, tu as retrouvé ma broche ! ET tu as aussi apporté une bouteille de vin ! Chouette ! Je te laisse le choix alors. Tu préfères préparer un sanglier à la bière ou un coq au vin ?<p></p>",
 		"options": [{
 			"question": "Un coq au vin.",
@@ -7231,7 +8740,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_9_6",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, tu as retrouvé mon couteau de cuisine! Tu as aussi apporté une bouteille de vin !  Chouette ! Je te laisse le choix alors. Tu préfères préparer un poisson au citron ou un coq au vin ?<p></p>",
 		"options": [{
 			"question": "Un coq au vin.",
@@ -7246,7 +8755,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_9_7",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, tu as retrouvé ma marmite, ma broche ET mon couteau de cuisine ! Tu devrais être mon assistant.e ! Je te laisse le choix alors. Tu préfères préparer une soupe, un sanglier à la bière ou un poisson au citron ?<p></p>",
 		"options": [{
 			"question": "Une soupe.",
@@ -7266,7 +8775,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_9_8",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, tu as retrouvé ma broche ET mon couteau de cuisine ! Tu as aussi apporté une bouteille de vin ! Tu devrais être mon assistant.e ! Je te laisse le choix alors. Tu préfères préparer un sanglier à la bière, un poisson au citron ou un coq au vin?<p></p>",
 		"options": [{
 			"question": "Un coq au vin.",
@@ -7286,7 +8795,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_9_9",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, tu as retrouvé ma marmite ET mon couteau de cuisine ! Tu as aussi apporté une bouteille de vin ! Tu devrais être mon assistant.e ! Je te laisse le choix alors. Tu préfères préparer une soupe, un poisson au citron ou un coq au vin ?<p></p>",
 		"options": [{
 			"question": "Une soupe.",
@@ -7306,7 +8815,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_9_10",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, tu as retrouvé ma marmite ET ma broche ! Tu as aussi apporté une bouteille de vin ! Tu devrais être mon assistant.e ! Je te laisse le choix alors. Tu préfères préparer une soupe, un sanglier à la bière ou un coq au vin?<p></p>",
 		"options": [{
 			"question": "Une soupe.",
@@ -7326,7 +8835,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_9_11",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh, tu as retrouvé ma marmite, ma broche ET mon couteau de cuisine ! Tu as aussi apporté une bouteille de vin !  Pitié, deviens immédiatement mon assistant.e ! Je te laisse le choix alors. Tu préfères préparer une soupe, un sanglier à la bière, un poisson au citron ou un coq au vin ?<p></p>",
 		"options": [{
 			"question": "Une soupe.",
@@ -7351,7 +8860,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_10",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Et voilà, le repas du midi est prêt. Ça aurait pris moins de temps si j’avais eu de l’aide. Enfin bon…<p></p>",
 		"options": [{
 			"question": "Vous le félicitez et lui proposez de réaliser le service des plats.",
@@ -7361,7 +8870,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_10_2",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Et voilà, le repas du midi est prêt. Merci beaucoup pour ton aide !<p></p>",
 		"options": [{
 			"question": "Vous vous proposez pour réaliser le service des plats.",
@@ -7371,7 +8880,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_11_0",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Bien, tu vas t’occuper du coq au vin alors.<p></p>",
 		"options": [{
 			"question": "Vous préparez le coq au vin.",
@@ -7381,7 +8890,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_11_1",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. (Krom remarque que tu as une marmite avec toi). Oh tu as apporté une bouteille de vin ! tu vas t’occuper du coq au vin alors.<p></p>",
 		"options": [{
 			"question": "Vous préparez le coq au vin.",
@@ -7391,7 +8900,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_11_2",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Le coq au vin est prêt. Il a l’air délicieux.<p></p>",
 		"options": [{
 			"question": "Vous vous proposez pour réaliser le service des plats.",
@@ -7401,7 +8910,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_12_0",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Très bien, va chercher le citron dans la réserve.<p></p>",
 		"options": [{
 			"question": "D’accord.",
@@ -7426,7 +8935,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_12_1",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Merci, tu es bien courageux.se. Oh tu as retrouvé mon couteau de cuisine, super ! Tu vas t’occuper du poisson au citron alors.. Va me chercher les agrumes dans la réserve. <p></p>",
 		"options": [{
 			"question": "D’accord.",
@@ -7451,7 +8960,7 @@
 		}]
     },{
 		"identifiant": "21_Krom_Chapitre2_Cuisine_12_2",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Le poisson au citron est prêt, ça a de l’allure !<p></p>",
 		"options": [{
 			"question": "Vous vous proposez pour réaliser le service des plats.",
@@ -7461,7 +8970,7 @@
 		}]
     },{
 		"identifiant": "Validation_FinDeBranche_Krom_Chapitre2_Cuisine",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Vous sortez de la cuisine.<p></p>",
 		"options": [{
 			"question": "Vous vous rendez à la salle de réception pour faire le service et prendre votre repas du midi.",
@@ -7476,13 +8985,130 @@
 		}]
     },{
 		"identifiant": "Validation_FinDeBranche_Krom_Chapitre2_Cuisine_2",
-		"image": "21_Krom_Chapitre_.jpg",
+		"image": "backgrounds/Cuisine_Jour.jpg",
 		"texte": "<p>Félicitations, vous avez tapé dans l’oeil de Krom le cuisinier !<p></p>",
 		"options": [{
 			"question": "Poursuivre.",
 			"vers": "3_0_1_13",
 			"condition": [[]],
 			"consequence": [[]]		
+		}]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	{
+		"identifiant": "22_Projet_Danse_Sereil_1_Ririsson_1",
+		"image": "backgrounds/Dancefloor_Soir.jpg",
+		"texte": "<p><i>Vous dansez avec Ririsson</i> ^ ^<p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "22_Projet_Danse_Sereil_1_Ririsson_2",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    }, {
+		"identifiant": "22_Projet_Danse_Sereil_1_Ririsson_2",
+		"image": "backgrounds/Dancefloor_Soir.jpg",
+		"texte": "<p>:D<p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "22_Projet_Danse_Sereil_1_Ririsson_3",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "22_Projet_Danse_Sereil_1_Ririsson_3",
+		"image": "backgrounds/Dancefloor_Soir.jpg",
+		"texte": "<p><i>Gasp</i><p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "22_Projet_Danse_Sereil_1_Ririsson_4",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "22_Projet_Danse_Sereil_1_Ririsson_4",
+		"image": "backgrounds/Dancefloor_Soir.jpg",
+		"texte": "<p>:p<p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "22_Projet_Danse_Sereil_1_Ririsson_5",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "22_Projet_Danse_Sereil_1_Ririsson_5",
+		"image": "backgrounds/Dancefloor_Soir.jpg",
+		"texte": "<p>;)<p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "22_Projet_Danse_Sereil_1_Ririsson_6",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "22_Projet_Danse_Sereil_1_Ririsson_6",
+		"image": "backgrounds/Dancefloor_Soir.jpg",
+		"texte": "<p>:)<p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "22_Projet_Danse_Sereil_1_Ririsson_7",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "22_Projet_Danse_Sereil_1_Ririsson_7",
+		"image": "backgrounds/Dancefloor_Soir.jpg",
+		"texte": "<p>^ v ^ <i>Votre danse se termine, vous saluez Ririsson</i><p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "6_1_9_1",
+			"condition": [[]],
+			"consequence": [["22_Projet_Danse_Sereil_1_Ririsson_Fait", true]]		
+		}]
+    },{
+		"identifiant": "22_Projet_Danse_Sereil_1_Orygamy_1",
+		"image": "backgrounds/Dancefloor_Soir.jpg",
+		"texte": "<p><i>Vous dansez avec Orygamy</i> > v < <p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "22_Projet_Danse_Sereil_1_Orygamy_2",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "22_Projet_Danse_Sereil_1_Orygamy_2",
+		"image": "backgrounds/Dancefloor_Soir.jpg",
+		"texte": "<p> :) <p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "22_Projet_Danse_Sereil_1_Orygamy_3",
+			"condition": [[]],
+			"consequence": [[]]		
+		}]
+    },{
+		"identifiant": "22_Projet_Danse_Sereil_1_Orygamy_3",
+		"image": "backgrounds/Dancefloor_Soir.jpg",
+		"texte": "<p> :D <i>Votre danse se termine, vous saluez Orygamy</i><p></p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "6_1_9_1",
+			"condition": [[]],
+			"consequence": [["22_Projet_Danse_Sereil_1_Orygamy_Fait", true]]		
 		}]
     }
 
@@ -7500,4 +9126,3 @@
 
 	]
   }
-  
